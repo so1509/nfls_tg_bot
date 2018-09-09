@@ -1,0 +1,1110 @@
+{
+    "players": [
+        {
+            "esbid": "AGH474619", 
+            "gsisPlayerId": "00-0031549", 
+            "id": "2552600", 
+            "name": "Nelson Agholor", 
+            "position": "WR", 
+            "seasonProjectedPts": 106.57, 
+            "seasonPts": 5.5, 
+            "stats": {
+                "1": "1", 
+                "13": "1", 
+                "14": "16", 
+                "2": "1", 
+                "20": "8", 
+                "21": "33", 
+                "3": "1", 
+                "5": "15"
+            }, 
+            "teamAbbr": "PHI", 
+            "weekProjectedPts": 6.98, 
+            "weekPts": 5.5
+        }, 
+        {
+            "esbid": "AJA771256", 
+            "gsisPlayerId": "00-0031590", 
+            "id": "2552582", 
+            "name": "Jay Ajayi", 
+            "position": "RB", 
+            "seasonProjectedPts": 165.08, 
+            "seasonPts": 20.2, 
+            "stats": {
+                "1": "1", 
+                "13": "15", 
+                "14": "62", 
+                "15": "2", 
+                "32": "1", 
+                "70": "1"
+            }, 
+            "teamAbbr": "PHI", 
+            "weekProjectedPts": 9.84, 
+            "weekPts": 20.2
+        }, 
+        {
+            "esbid": "ALF657259", 
+            "gsisPlayerId": "00-0030528", 
+            "id": "2539653", 
+            "name": "Robert Alford", 
+            "position": "DB", 
+            "seasonProjectedPts": 0, 
+            "seasonPts": 6, 
+            "stats": {
+                "1": "1", 
+                "70": "4", 
+                "81": "2"
+            }, 
+            "teamAbbr": "ATL", 
+            "weekProjectedPts": 5.46, 
+            "weekPts": 6
+        }, 
+        {
+            "esbid": "ALL641418", 
+            "gsisPlayerId": "00-0031181", 
+            "id": "2543850", 
+            "name": "Ricardo Allen", 
+            "position": "DB", 
+            "seasonProjectedPts": 0, 
+            "seasonPts": 5.5, 
+            "stats": {
+                "1": "1", 
+                "70": "4", 
+                "71": "1", 
+                "81": "1"
+            }, 
+            "teamAbbr": "ATL", 
+            "weekProjectedPts": 3.82, 
+            "weekPts": 5.5
+        }, 
+        {
+            "esbid": "BAR405176", 
+            "gsisPlayerId": "00-0033876", 
+            "id": "2557984", 
+            "name": "Derek Barnett", 
+            "position": "DL", 
+            "seasonProjectedPts": 0, 
+            "seasonPts": 1.5, 
+            "stats": {
+                "1": "1", 
+                "70": "1", 
+                "71": "1", 
+                "85": "1"
+            }, 
+            "teamAbbr": "PHI", 
+            "weekProjectedPts": 2.22, 
+            "weekPts": 1.5
+        }, 
+        {
+            "esbid": "BEA528276", 
+            "gsisPlayerId": "00-0032240", 
+            "id": "2552301", 
+            "name": "Vic Beasley", 
+            "position": "LB", 
+            "seasonProjectedPts": 0, 
+            "seasonPts": 1, 
+            "stats": {
+                "1": "1", 
+                "70": "1"
+            }, 
+            "teamAbbr": "ATL", 
+            "weekProjectedPts": 3.63, 
+            "weekPts": 1
+        }, 
+        {
+            "esbid": "BEN384391", 
+            "gsisPlayerId": "00-0026618", 
+            "id": "2507617", 
+            "name": "Michael Bennett", 
+            "position": "DL", 
+            "seasonProjectedPts": 0, 
+            "seasonPts": 1.5, 
+            "stats": {
+                "1": "1", 
+                "70": "1", 
+                "71": "1", 
+                "84": "1", 
+                "85": "1"
+            }, 
+            "teamAbbr": "PHI", 
+            "weekProjectedPts": 3.51, 
+            "weekPts": 1.5
+        }, 
+        {
+            "esbid": "BRY500226", 
+            "gsisPlayerId": "00-0020578", 
+            "id": "2504797", 
+            "name": "Matt Bryant", 
+            "position": "K", 
+            "seasonProjectedPts": 122.98, 
+            "seasonPts": 8, 
+            "stats": {
+                "1": "1", 
+                "34": "1", 
+                "36": "1", 
+                "39": "1"
+            }, 
+            "teamAbbr": "ATL", 
+            "weekProjectedPts": 6.71, 
+            "weekPts": 8
+        }, 
+        {
+            "esbid": "BUR760475", 
+            "gsisPlayerId": "00-0033222", 
+            "id": "2559109", 
+            "name": "Deante Burton", 
+            "position": "WR", 
+            "seasonProjectedPts": 0, 
+            "seasonPts": 0, 
+            "stats": {
+                "1": "1", 
+                "71": "1"
+            }, 
+            "teamAbbr": "ATL", 
+            "weekProjectedPts": 1.3, 
+            "weekPts": 0
+        }, 
+        {
+            "esbid": "CAM227922", 
+            "gsisPlayerId": "00-0032401", 
+            "id": "2555255", 
+            "name": "De'Vondre Campbell", 
+            "position": "LB", 
+            "seasonProjectedPts": 0, 
+            "seasonPts": 5, 
+            "stats": {
+                "1": "1", 
+                "70": "4", 
+                "71": "2"
+            }, 
+            "teamAbbr": "ATL", 
+            "weekProjectedPts": 4.97, 
+            "weekPts": 5
+        }, 
+        {
+            "esbid": "CAR641798", 
+            "gsisPlayerId": "00-0031763", 
+            "id": "2553502", 
+            "name": "DeAndre Carter", 
+            "position": "WR", 
+            "seasonProjectedPts": 3.99, 
+            "seasonPts": 1, 
+            "stats": {
+                "1": "1", 
+                "20": "1", 
+                "21": "10"
+            }, 
+            "teamAbbr": "PHI", 
+            "weekProjectedPts": 1, 
+            "weekPts": 1
+        }, 
+        {
+            "esbid": "CLE186218", 
+            "gsisPlayerId": "00-0033725", 
+            "id": "2559150", 
+            "name": "Corey Clement", 
+            "position": "RB", 
+            "seasonProjectedPts": 72.16, 
+            "seasonPts": 2.6, 
+            "stats": {
+                "1": "1", 
+                "13": "5", 
+                "14": "26"
+            }, 
+            "teamAbbr": "PHI", 
+            "weekProjectedPts": 4.29, 
+            "weekPts": 2.6
+        }, 
+        {
+            "esbid": "COL359050", 
+            "gsisPlayerId": "00-0032058", 
+            "id": "2552453", 
+            "name": "Tevin Coleman", 
+            "position": "RB", 
+            "seasonProjectedPts": 122.06, 
+            "seasonPts": 10.5, 
+            "stats": {
+                "1": "1", 
+                "13": "9", 
+                "14": "19", 
+                "15": "1", 
+                "20": "1", 
+                "21": "26"
+            }, 
+            "teamAbbr": "ATL", 
+            "weekProjectedPts": 7.22, 
+            "weekPts": 10.5
+        }, 
+        {
+            "esbid": "COX200177", 
+            "gsisPlayerId": "00-0029653", 
+            "id": "2533051", 
+            "name": "Fletcher Cox", 
+            "position": "DL", 
+            "seasonProjectedPts": 0, 
+            "seasonPts": 4, 
+            "stats": {
+                "1": "1", 
+                "70": "2", 
+                "72": "1", 
+                "84": "1", 
+                "85": "4", 
+                "86": "7"
+            }, 
+            "teamAbbr": "PHI", 
+            "weekProjectedPts": 2.74, 
+            "weekPts": 4
+        }, 
+        {
+            "esbid": "CRA660264", 
+            "gsisPlayerId": "00-0029627", 
+            "id": "2532992", 
+            "name": "Jack Crawford", 
+            "position": "DL", 
+            "seasonProjectedPts": 0, 
+            "seasonPts": 1, 
+            "stats": {
+                "1": "1", 
+                "70": "1"
+            }, 
+            "teamAbbr": "ATL", 
+            "weekProjectedPts": 1.26, 
+            "weekPts": 1
+        }, 
+        {
+            "esbid": "DAR187187", 
+            "gsisPlayerId": "00-0032195", 
+            "id": "2552689", 
+            "name": "Ronald Darby", 
+            "position": "DB", 
+            "seasonProjectedPts": 0, 
+            "seasonPts": 8.5, 
+            "stats": {
+                "1": "1", 
+                "70": "5", 
+                "71": "1", 
+                "81": "3", 
+                "84": "1", 
+                "89": "1"
+            }, 
+            "teamAbbr": "PHI", 
+            "weekProjectedPts": 6.29, 
+            "weekPts": 8.5
+        }, 
+        {
+            "esbid": "DOU604176", 
+            "gsisPlayerId": "00-0033551", 
+            "id": "2558168", 
+            "name": "Rasul Douglas", 
+            "position": "DB", 
+            "seasonProjectedPts": 0, 
+            "seasonPts": 3, 
+            "stats": {
+                "1": "1", 
+                "73": "1", 
+                "81": "1"
+            }, 
+            "teamAbbr": "PHI", 
+            "weekProjectedPts": 1.24, 
+            "weekPts": 3
+        }, 
+        {
+            "esbid": null, 
+            "gsisPlayerId": false, 
+            "id": "100025", 
+            "name": "Philadelphia Eagles", 
+            "position": "DEF", 
+            "seasonProjectedPts": 106.19, 
+            "seasonPts": 10, 
+            "stats": {
+                "1": "1", 
+                "45": "4", 
+                "46": "1", 
+                "48": "1", 
+                "52": "72", 
+                "54": "12", 
+                "57": "1", 
+                "62": "299", 
+                "65": "1"
+            }, 
+            "teamAbbr": "PHI", 
+            "weekProjectedPts": 6.16, 
+            "weekPts": 10
+        }, 
+        {
+            "esbid": "ELL296383", 
+            "gsisPlayerId": "00-0033787", 
+            "id": "2558172", 
+            "name": "Jake Elliott", 
+            "position": "K", 
+            "seasonProjectedPts": 119.8, 
+            "seasonPts": 4, 
+            "stats": {
+                "1": "1", 
+                "33": "1", 
+                "36": "1"
+            }, 
+            "teamAbbr": "PHI", 
+            "weekProjectedPts": 7.68, 
+            "weekPts": 4
+        }, 
+        {
+            "esbid": "ERT800920", 
+            "gsisPlayerId": "00-0030061", 
+            "id": "2540158", 
+            "name": "Zach Ertz", 
+            "position": "TE", 
+            "seasonProjectedPts": 121.99, 
+            "seasonPts": 4.8, 
+            "stats": {
+                "1": "1", 
+                "20": "5", 
+                "21": "48"
+            }, 
+            "teamAbbr": "PHI", 
+            "weekProjectedPts": 7.83, 
+            "weekPts": 4.8
+        }, 
+        {
+            "esbid": null, 
+            "gsisPlayerId": false, 
+            "id": "100001", 
+            "name": "Atlanta Falcons", 
+            "position": "DEF", 
+            "seasonProjectedPts": 102.93, 
+            "seasonPts": 7, 
+            "stats": {
+                "1": "1", 
+                "45": "2", 
+                "46": "1", 
+                "47": "1", 
+                "52": "11", 
+                "54": "18", 
+                "58": "1", 
+                "62": "232", 
+                "65": "1"
+            }, 
+            "teamAbbr": "ATL", 
+            "weekProjectedPts": 6.3, 
+            "weekPts": 7
+        }, 
+        {
+            "esbid": "FOL058566", 
+            "gsisPlayerId": "00-0029567", 
+            "id": "2532842", 
+            "name": "Nick Foles", 
+            "position": "QB", 
+            "seasonProjectedPts": 22.48, 
+            "seasonPts": 4.08, 
+            "stats": {
+                "1": "1", 
+                "13": "1", 
+                "14": "-1", 
+                "2": "34", 
+                "20": "1", 
+                "21": "15", 
+                "3": "19", 
+                "31": "1", 
+                "4": "15", 
+                "5": "117", 
+                "7": "1", 
+                "75": "1", 
+                "8": "2"
+            }, 
+            "teamAbbr": "PHI", 
+            "weekProjectedPts": 14.32, 
+            "weekPts": 4.08
+        }, 
+        {
+            "esbid": "FRE174508", 
+            "gsisPlayerId": "00-0031285", 
+            "id": "2543583", 
+            "name": "Devonta Freeman", 
+            "position": "RB", 
+            "seasonProjectedPts": 188.4, 
+            "seasonPts": 5, 
+            "stats": {
+                "1": "1", 
+                "13": "6", 
+                "14": "36", 
+                "20": "3", 
+                "21": "14"
+            }, 
+            "teamAbbr": "ATL", 
+            "weekProjectedPts": 10.86, 
+            "weekPts": 5
+        }, 
+        {
+            "esbid": "GER650621", 
+            "gsisPlayerId": "00-0033577", 
+            "id": "2558175", 
+            "name": "Nate Gerry", 
+            "position": "DB", 
+            "seasonProjectedPts": 0, 
+            "seasonPts": 2, 
+            "stats": {
+                "1": "1", 
+                "70": "1", 
+                "81": "1"
+            }, 
+            "teamAbbr": "PHI", 
+            "weekProjectedPts": 4.97, 
+            "weekPts": 2
+        }, 
+        {
+            "esbid": "GIB771244", 
+            "gsisPlayerId": "00-0033573", 
+            "id": "2558258", 
+            "name": "Shelton Gibson", 
+            "position": "WR", 
+            "seasonProjectedPts": 7.05, 
+            "seasonPts": 0, 
+            "stats": {
+                "1": "1", 
+                "27": "43"
+            }, 
+            "teamAbbr": "PHI", 
+            "weekProjectedPts": 1.61, 
+            "weekPts": 0
+        }, 
+        {
+            "esbid": "GOE595520", 
+            "gsisPlayerId": "00-0034351", 
+            "id": "2560995", 
+            "name": "Dallas Goedert", 
+            "position": "TE", 
+            "seasonProjectedPts": 34.67, 
+            "seasonPts": 0.4, 
+            "stats": {
+                "1": "1", 
+                "20": "1", 
+                "21": "4"
+            }, 
+            "teamAbbr": "PHI", 
+            "weekProjectedPts": 3.41, 
+            "weekPts": 0.4
+        }, 
+        {
+            "esbid": "GRA130064", 
+            "gsisPlayerId": "00-0027865", 
+            "id": "496788", 
+            "name": "Brandon Graham", 
+            "position": "DL", 
+            "seasonProjectedPts": 0, 
+            "seasonPts": 2, 
+            "stats": {
+                "1": "1", 
+                "70": "2", 
+                "84": "2"
+            }, 
+            "teamAbbr": "PHI", 
+            "weekProjectedPts": 3.75, 
+            "weekPts": 2
+        }, 
+        {
+            "esbid": "GRU516162", 
+            "gsisPlayerId": "00-0032437", 
+            "id": "2556363", 
+            "name": "Kamu Grugier-Hill", 
+            "position": "LB", 
+            "seasonProjectedPts": 0, 
+            "seasonPts": 3.5, 
+            "stats": {
+                "1": "1", 
+                "70": "3", 
+                "71": "1", 
+                "84": "1"
+            }, 
+            "teamAbbr": "PHI", 
+            "weekProjectedPts": 0.7, 
+            "weekPts": 3.5
+        }, 
+        {
+            "esbid": "HAR111877", 
+            "gsisPlayerId": "00-0031570", 
+            "id": "2552418", 
+            "name": "Justin Hardy", 
+            "position": "WR", 
+            "seasonProjectedPts": 22.72, 
+            "seasonPts": 0, 
+            "stats": {
+                "1": "1", 
+                "27": "11"
+            }, 
+            "teamAbbr": "ATL", 
+            "weekProjectedPts": 1.25, 
+            "weekPts": 0
+        }, 
+        {
+            "esbid": "HIC516259", 
+            "gsisPlayerId": "00-0032129", 
+            "id": "2552315", 
+            "name": "Jordan Hicks", 
+            "position": "LB", 
+            "seasonProjectedPts": 0, 
+            "seasonPts": 10, 
+            "stats": {
+                "1": "1", 
+                "70": "5", 
+                "71": "2", 
+                "72": "1.5", 
+                "81": "1", 
+                "84": "1", 
+                "85": "2", 
+                "86": "12.5"
+            }, 
+            "teamAbbr": "PHI", 
+            "weekProjectedPts": 4.81, 
+            "weekPts": 10
+        }, 
+        {
+            "esbid": "HOO570770", 
+            "gsisPlayerId": "00-0032392", 
+            "id": "2555415", 
+            "name": "Austin Hooper", 
+            "position": "TE", 
+            "seasonProjectedPts": 57.42, 
+            "seasonPts": 2.4, 
+            "stats": {
+                "1": "1", 
+                "20": "3", 
+                "21": "24"
+            }, 
+            "teamAbbr": "ATL", 
+            "weekProjectedPts": 3.5, 
+            "weekPts": 2.4
+        }, 
+        {
+            "esbid": "ISH415291", 
+            "gsisPlayerId": "00-0030427", 
+            "id": "2541431", 
+            "name": "Kemal Ishmael", 
+            "position": "DB", 
+            "seasonProjectedPts": 0, 
+            "seasonPts": 3.5, 
+            "stats": {
+                "1": "1", 
+                "70": "1", 
+                "71": "1", 
+                "75": "1"
+            }, 
+            "teamAbbr": "ATL", 
+            "weekProjectedPts": 1.45, 
+            "weekPts": 3.5
+        }, 
+        {
+            "esbid": "JAR254349", 
+            "gsisPlayerId": "00-0031583", 
+            "id": "2552327", 
+            "name": "Grady Jarrett", 
+            "position": "DL", 
+            "seasonProjectedPts": 0, 
+            "seasonPts": 4, 
+            "stats": {
+                "1": "1", 
+                "70": "3", 
+                "71": "2", 
+                "85": "1"
+            }, 
+            "teamAbbr": "ATL", 
+            "weekProjectedPts": 3.5, 
+            "weekPts": 4
+        }, 
+        {
+            "esbid": "JEN372222", 
+            "gsisPlayerId": "00-0026990", 
+            "id": "79848", 
+            "name": "Malcolm Jenkins", 
+            "position": "DB", 
+            "seasonProjectedPts": 0, 
+            "seasonPts": 3, 
+            "stats": {
+                "1": "1", 
+                "70": "3"
+            }, 
+            "teamAbbr": "PHI", 
+            "weekProjectedPts": 5.43, 
+            "weekPts": 3
+        }, 
+        {
+            "esbid": "JON233279", 
+            "gsisPlayerId": "00-0032388", 
+            "id": "2555162", 
+            "name": "Deion Jones", 
+            "position": "LB", 
+            "seasonProjectedPts": 0, 
+            "seasonPts": 10.5, 
+            "stats": {
+                "1": "1", 
+                "70": "4", 
+                "71": "5", 
+                "73": "1", 
+                "81": "2", 
+                "82": "20"
+            }, 
+            "teamAbbr": "ATL", 
+            "weekProjectedPts": 8.11, 
+            "weekPts": 10.5
+        }, 
+        {
+            "esbid": "JON640315", 
+            "gsisPlayerId": "00-0027944", 
+            "id": "2495454", 
+            "name": "Julio Jones", 
+            "position": "WR", 
+            "seasonProjectedPts": 188.2, 
+            "seasonPts": 18, 
+            "stats": {
+                "1": "1", 
+                "13": "1", 
+                "14": "11", 
+                "20": "10", 
+                "21": "169", 
+                "25": "1"
+            }, 
+            "teamAbbr": "ATL", 
+            "weekProjectedPts": 11.91, 
+            "weekPts": 18
+        }, 
+        {
+            "esbid": "JON719895", 
+            "gsisPlayerId": "00-0033543", 
+            "id": "2557958", 
+            "name": "Sidney Jones", 
+            "position": "DB", 
+            "seasonProjectedPts": 0, 
+            "seasonPts": 3.5, 
+            "stats": {
+                "1": "1", 
+                "70": "3", 
+                "71": "1", 
+                "84": "1"
+            }, 
+            "teamAbbr": "PHI", 
+            "weekProjectedPts": 1.21, 
+            "weekPts": 3.5
+        }, 
+        {
+            "esbid": "KAZ186981", 
+            "gsisPlayerId": "00-0033512", 
+            "id": "2558184", 
+            "name": "Damontae Kazee", 
+            "position": "DB", 
+            "seasonProjectedPts": 0, 
+            "seasonPts": 4, 
+            "stats": {
+                "1": "1", 
+                "70": "3", 
+                "81": "1"
+            }, 
+            "teamAbbr": "ATL", 
+            "weekProjectedPts": 1.08, 
+            "weekPts": 4
+        }, 
+        {
+            "esbid": "LON213256", 
+            "gsisPlayerId": "00-0026142", 
+            "id": "276", 
+            "name": "Chris Long", 
+            "position": "DL", 
+            "seasonProjectedPts": 0, 
+            "seasonPts": 7.5, 
+            "stats": {
+                "1": "1", 
+                "70": "1", 
+                "71": "3", 
+                "72": "1.5", 
+                "74": "1", 
+                "85": "4", 
+                "86": "6.5"
+            }, 
+            "teamAbbr": "PHI", 
+            "weekProjectedPts": 2.14, 
+            "weekPts": 7.5
+        }, 
+        {
+            "esbid": "MCC342970", 
+            "gsisPlayerId": "00-0028003", 
+            "id": "2495311", 
+            "name": "Terrell McClain", 
+            "position": "DL", 
+            "seasonProjectedPts": 0, 
+            "seasonPts": 1, 
+            "stats": {
+                "1": "1", 
+                "70": "1"
+            }, 
+            "teamAbbr": "ATL", 
+            "weekProjectedPts": 2.33, 
+            "weekPts": 1
+        }, 
+        {
+            "esbid": "MCK405174", 
+            "gsisPlayerId": "00-0033540", 
+            "id": "2557872", 
+            "name": "Takkarist McKinley", 
+            "position": "DL", 
+            "seasonProjectedPts": 0, 
+            "seasonPts": 3, 
+            "stats": {
+                "1": "1", 
+                "70": "1", 
+                "72": "1", 
+                "84": "1", 
+                "85": "2", 
+                "86": "6"
+            }, 
+            "teamAbbr": "ATL", 
+            "weekProjectedPts": 4.06, 
+            "weekPts": 3
+        }, 
+        {
+            "esbid": "MCL709174", 
+            "gsisPlayerId": "00-0028899", 
+            "id": "2534832", 
+            "name": "Rodney McLeod", 
+            "position": "DB", 
+            "seasonProjectedPts": 0, 
+            "seasonPts": 7.5, 
+            "stats": {
+                "1": "1", 
+                "70": "5", 
+                "71": "1", 
+                "81": "2"
+            }, 
+            "teamAbbr": "PHI", 
+            "weekProjectedPts": 4.69, 
+            "weekPts": 7.5
+        }, 
+        {
+            "esbid": "MIL688675", 
+            "gsisPlayerId": "00-0032803", 
+            "id": "2555383", 
+            "name": "Jalen Mills", 
+            "position": "DB", 
+            "seasonProjectedPts": 0, 
+            "seasonPts": 8, 
+            "stats": {
+                "1": "1", 
+                "70": "6", 
+                "81": "2"
+            }, 
+            "teamAbbr": "PHI", 
+            "weekProjectedPts": 5.13, 
+            "weekPts": 8
+        }, 
+        {
+            "esbid": "NEA222964", 
+            "gsisPlayerId": "00-0032382", 
+            "id": "2555543", 
+            "name": "Keanu Neal", 
+            "position": "DB", 
+            "seasonProjectedPts": 0, 
+            "seasonPts": 1.5, 
+            "stats": {
+                "1": "1", 
+                "70": "1", 
+                "71": "1"
+            }, 
+            "teamAbbr": "ATL", 
+            "weekProjectedPts": 7.25, 
+            "weekPts": 1.5
+        }, 
+        {
+            "esbid": "OLU474619", 
+            "gsisPlayerId": "00-0034413", 
+            "id": "2561132", 
+            "name": "Foye Oluokun", 
+            "position": "LB", 
+            "seasonProjectedPts": 0, 
+            "seasonPts": 1, 
+            "stats": {
+                "1": "1", 
+                "70": "1"
+            }, 
+            "teamAbbr": "ATL", 
+            "weekProjectedPts": 1.12, 
+            "weekPts": 1
+        }, 
+        {
+            "esbid": "POO231564", 
+            "gsisPlayerId": "00-0032596", 
+            "id": "2556445", 
+            "name": "Brian Poole", 
+            "position": "DB", 
+            "seasonProjectedPts": 0, 
+            "seasonPts": 9, 
+            "stats": {
+                "1": "1", 
+                "70": "6", 
+                "72": "1", 
+                "81": "1", 
+                "84": "1", 
+                "85": "1", 
+                "86": "7"
+            }, 
+            "teamAbbr": "ATL", 
+            "weekProjectedPts": 3.5, 
+            "weekPts": 9
+        }, 
+        {
+            "esbid": "REE154467", 
+            "gsisPlayerId": "00-0027980", 
+            "id": "2495218", 
+            "name": "Brooks Reed", 
+            "position": "LB", 
+            "seasonProjectedPts": 0, 
+            "seasonPts": 0.5, 
+            "stats": {
+                "1": "1", 
+                "71": "1"
+            }, 
+            "teamAbbr": "ATL", 
+            "weekProjectedPts": 2.35, 
+            "weekPts": 0.5
+        }, 
+        {
+            "esbid": "REY431570", 
+            "gsisPlayerId": "00-0029955", 
+            "id": "2541741", 
+            "name": "LaRoy Reynolds", 
+            "position": "LB", 
+            "seasonProjectedPts": 0, 
+            "seasonPts": 1, 
+            "stats": {
+                "1": "1", 
+                "70": "1"
+            }, 
+            "teamAbbr": "PHI", 
+            "weekProjectedPts": 4.98, 
+            "weekPts": 1
+        }, 
+        {
+            "esbid": "RID652384", 
+            "gsisPlayerId": "00-0034837", 
+            "id": "2560854", 
+            "name": "Calvin Ridley", 
+            "position": "WR", 
+            "seasonProjectedPts": 46.77, 
+            "seasonPts": 0, 
+            "stats": {
+                "1": "1"
+            }, 
+            "teamAbbr": "ATL", 
+            "weekProjectedPts": 3.55, 
+            "weekPts": 0
+        }, 
+        {
+            "esbid": "RIL146648", 
+            "gsisPlayerId": "00-0033549", 
+            "id": "2557967", 
+            "name": "Duke Riley", 
+            "position": "LB", 
+            "seasonProjectedPts": 0, 
+            "seasonPts": 2.5, 
+            "stats": {
+                "1": "1", 
+                "70": "1", 
+                "71": "1", 
+                "81": "1"
+            }, 
+            "teamAbbr": "ATL", 
+            "weekProjectedPts": 3.66, 
+            "weekPts": 2.5
+        }, 
+        {
+            "esbid": "RYA238179", 
+            "gsisPlayerId": "00-0026143", 
+            "id": "310", 
+            "name": "Matt Ryan", 
+            "position": "QB", 
+            "seasonProjectedPts": 266.83, 
+            "seasonPts": 8.84, 
+            "stats": {
+                "1": "1", 
+                "13": "2", 
+                "14": "8", 
+                "2": "43", 
+                "3": "21", 
+                "31": "1", 
+                "4": "22", 
+                "5": "251", 
+                "7": "1", 
+                "8": "4"
+            }, 
+            "teamAbbr": "ATL", 
+            "weekProjectedPts": 15.77, 
+            "weekPts": 8.84
+        }, 
+        {
+            "esbid": "SAN808447", 
+            "gsisPlayerId": "00-0029632", 
+            "id": "2533040", 
+            "name": "Mohamed Sanu", 
+            "position": "WR", 
+            "seasonProjectedPts": 103.13, 
+            "seasonPts": 1.8, 
+            "stats": {
+                "1": "1", 
+                "20": "4", 
+                "21": "18"
+            }, 
+            "teamAbbr": "ATL", 
+            "weekProjectedPts": 6.61, 
+            "weekPts": 1.8
+        }, 
+        {
+            "esbid": "SAU025752", 
+            "gsisPlayerId": "00-0033576", 
+            "id": "2558023", 
+            "name": "Eric Saubert", 
+            "position": "TE", 
+            "seasonProjectedPts": 5.83, 
+            "seasonPts": 0, 
+            "stats": {
+                "1": "1", 
+                "71": "1"
+            }, 
+            "teamAbbr": "ATL", 
+            "weekProjectedPts": 0.28, 
+            "weekPts": 0
+        }, 
+        {
+            "esbid": "SEN026161", 
+            "gsisPlayerId": "00-0034363", 
+            "id": "2560869", 
+            "name": "Deadrin Senat", 
+            "position": "DL", 
+            "seasonProjectedPts": 0, 
+            "seasonPts": 2.5, 
+            "stats": {
+                "1": "1", 
+                "70": "2", 
+                "71": "1"
+            }, 
+            "teamAbbr": "ATL", 
+            "weekProjectedPts": 0.87, 
+            "weekPts": 2.5
+        }, 
+        {
+            "esbid": "SHE238558", 
+            "gsisPlayerId": "00-0029111", 
+            "id": "2532989", 
+            "name": "Derrick Shelby", 
+            "position": "DL", 
+            "seasonProjectedPts": 0, 
+            "seasonPts": 2, 
+            "stats": {
+                "1": "1", 
+                "70": "2"
+            }, 
+            "teamAbbr": "ATL", 
+            "weekProjectedPts": 1.69, 
+            "weekPts": 2
+        }, 
+        {
+            "esbid": "SMA757345", 
+            "gsisPlayerId": "00-0032782", 
+            "id": "2555461", 
+            "name": "Wendell Smallwood", 
+            "position": "RB", 
+            "seasonProjectedPts": 1.47, 
+            "seasonPts": 0, 
+            "stats": {
+                "1": "1", 
+                "71": "1"
+            }, 
+            "teamAbbr": "PHI", 
+            "weekProjectedPts": 1.17, 
+            "weekPts": 0
+        }, 
+        {
+            "esbid": "SPR711296", 
+            "gsisPlayerId": "00-0023564", 
+            "id": "2506467", 
+            "name": "Darren Sproles", 
+            "position": "RB", 
+            "seasonProjectedPts": 65.26, 
+            "seasonPts": 3.2, 
+            "stats": {
+                "1": "1", 
+                "13": "5", 
+                "14": "10", 
+                "20": "4", 
+                "21": "22", 
+                "27": "29"
+            }, 
+            "teamAbbr": "PHI", 
+            "weekProjectedPts": 4.04, 
+            "weekPts": 3.2
+        }, 
+        {
+            "esbid": "SUL719230", 
+            "gsisPlayerId": "00-0033731", 
+            "id": "2559260", 
+            "name": "Tre Sullivan", 
+            "position": "DB", 
+            "seasonProjectedPts": 0, 
+            "seasonPts": -2, 
+            "stats": {
+                "1": "1", 
+                "30": "1", 
+                "31": "1"
+            }, 
+            "teamAbbr": "", 
+            "weekProjectedPts": 1.37, 
+            "weekPts": -2
+        }, 
+        {
+            "esbid": "TRU381665", 
+            "gsisPlayerId": "00-0030562", 
+            "id": "2539334", 
+            "name": "Desmond Trufant", 
+            "position": "DB", 
+            "seasonProjectedPts": 0, 
+            "seasonPts": 6, 
+            "stats": {
+                "1": "1", 
+                "70": "6"
+            }, 
+            "teamAbbr": "ATL", 
+            "weekProjectedPts": 4.21, 
+            "weekPts": 6
+        }, 
+        {
+            "esbid": "VAE059326", 
+            "gsisPlayerId": "00-0032859", 
+            "id": "2556786", 
+            "name": "Destiny Vaeao", 
+            "position": "DL", 
+            "seasonProjectedPts": 0, 
+            "seasonPts": 1, 
+            "stats": {
+                "1": "1", 
+                "70": "1", 
+                "85": "1"
+            }, 
+            "teamAbbr": "PHI", 
+            "weekProjectedPts": 0.71, 
+            "weekPts": 1
+        }, 
+        {
+            "esbid": "WAL468678", 
+            "gsisPlayerId": "00-0026901", 
+            "id": "2507763", 
+            "name": "Mike Wallace", 
+            "position": "WR", 
+            "seasonProjectedPts": 102.24, 
+            "seasonPts": 0, 
+            "stats": {
+                "1": "1"
+            }, 
+            "teamAbbr": "PHI", 
+            "weekProjectedPts": 7.09, 
+            "weekPts": 0
+        }
+    ], 
+    "season": "2018", 
+    "statType": "seasonStats", 
+    "week": "1"
+}

@@ -1,0 +1,2565 @@
+{
+    "Schedule": [
+        {
+            "awayTeam": "ATL", 
+            "gameDate": "2018-09-06", 
+            "gameId": "1", 
+            "gameTimeET": "8:20 PM", 
+            "gameWeek": "1", 
+            "homeTeam": "PHI", 
+            "tvStation": "NBC", 
+            "winner": "PHI"
+        }, 
+        {
+            "awayTeam": "BUF", 
+            "gameDate": "2018-09-09", 
+            "gameId": "2", 
+            "gameTimeET": "1:00 PM", 
+            "gameWeek": "1", 
+            "homeTeam": "BAL", 
+            "tvStation": "CBS", 
+            "winner": ""
+        }, 
+        {
+            "awayTeam": "PIT", 
+            "gameDate": "2018-09-09", 
+            "gameId": "3", 
+            "gameTimeET": "1:00 PM", 
+            "gameWeek": "1", 
+            "homeTeam": "CLE", 
+            "tvStation": "CBS", 
+            "winner": ""
+        }, 
+        {
+            "awayTeam": "CIN", 
+            "gameDate": "2018-09-09", 
+            "gameId": "4", 
+            "gameTimeET": "1:00 PM", 
+            "gameWeek": "1", 
+            "homeTeam": "IND", 
+            "tvStation": "CBS", 
+            "winner": ""
+        }, 
+        {
+            "awayTeam": "TEN", 
+            "gameDate": "2018-09-09", 
+            "gameId": "5", 
+            "gameTimeET": "1:00 PM", 
+            "gameWeek": "1", 
+            "homeTeam": "MIA", 
+            "tvStation": "FOX", 
+            "winner": ""
+        }, 
+        {
+            "awayTeam": "SF", 
+            "gameDate": "2018-09-09", 
+            "gameId": "6", 
+            "gameTimeET": "1:00 PM", 
+            "gameWeek": "1", 
+            "homeTeam": "MIN", 
+            "tvStation": "FOX", 
+            "winner": ""
+        }, 
+        {
+            "awayTeam": "HOU", 
+            "gameDate": "2018-09-09", 
+            "gameId": "7", 
+            "gameTimeET": "1:00 PM", 
+            "gameWeek": "1", 
+            "homeTeam": "NE", 
+            "tvStation": "CBS", 
+            "winner": ""
+        }, 
+        {
+            "awayTeam": "TB", 
+            "gameDate": "2018-09-09", 
+            "gameId": "8", 
+            "gameTimeET": "1:00 PM", 
+            "gameWeek": "1", 
+            "homeTeam": "NO", 
+            "tvStation": "FOX", 
+            "winner": ""
+        }, 
+        {
+            "awayTeam": "JAC", 
+            "gameDate": "2018-09-09", 
+            "gameId": "9", 
+            "gameTimeET": "1:00 PM", 
+            "gameWeek": "1", 
+            "homeTeam": "NYG", 
+            "tvStation": "FOX", 
+            "winner": ""
+        }, 
+        {
+            "awayTeam": "KC", 
+            "gameDate": "2018-09-09", 
+            "gameId": "10", 
+            "gameTimeET": "4:05 PM", 
+            "gameWeek": "1", 
+            "homeTeam": "LAC", 
+            "tvStation": "CBS", 
+            "winner": ""
+        }, 
+        {
+            "awayTeam": "WAS", 
+            "gameDate": "2018-09-09", 
+            "gameId": "11", 
+            "gameTimeET": "4:25 PM", 
+            "gameWeek": "1", 
+            "homeTeam": "ARI", 
+            "tvStation": "FOX", 
+            "winner": ""
+        }, 
+        {
+            "awayTeam": "DAL", 
+            "gameDate": "2018-09-09", 
+            "gameId": "12", 
+            "gameTimeET": "4:25 PM", 
+            "gameWeek": "1", 
+            "homeTeam": "CAR", 
+            "tvStation": "FOX", 
+            "winner": ""
+        }, 
+        {
+            "awayTeam": "SEA", 
+            "gameDate": "2018-09-09", 
+            "gameId": "13", 
+            "gameTimeET": "4:25 PM", 
+            "gameWeek": "1", 
+            "homeTeam": "DEN", 
+            "tvStation": "FOX", 
+            "winner": ""
+        }, 
+        {
+            "awayTeam": "CHI", 
+            "gameDate": "2018-09-09", 
+            "gameId": "14", 
+            "gameTimeET": "8:20 PM", 
+            "gameWeek": "1", 
+            "homeTeam": "GB", 
+            "tvStation": "NBC", 
+            "winner": ""
+        }, 
+        {
+            "awayTeam": "NYJ", 
+            "gameDate": "2018-09-10", 
+            "gameId": "15", 
+            "gameTimeET": "7:10 PM", 
+            "gameWeek": "1", 
+            "homeTeam": "DET", 
+            "tvStation": "ESPN", 
+            "winner": ""
+        }, 
+        {
+            "awayTeam": "LAR", 
+            "gameDate": "2018-09-10", 
+            "gameId": "16", 
+            "gameTimeET": "10:20 PM", 
+            "gameWeek": "1", 
+            "homeTeam": "OAK", 
+            "tvStation": "ESPN", 
+            "winner": ""
+        }, 
+        {
+            "awayTeam": "BAL", 
+            "gameDate": "2018-09-13", 
+            "gameId": "17", 
+            "gameTimeET": "8:20 PM", 
+            "gameWeek": "2", 
+            "homeTeam": "CIN", 
+            "tvStation": "NFLN", 
+            "winner": ""
+        }, 
+        {
+            "awayTeam": "CAR", 
+            "gameDate": "2018-09-16", 
+            "gameId": "18", 
+            "gameTimeET": "1:00 PM", 
+            "gameWeek": "2", 
+            "homeTeam": "ATL", 
+            "tvStation": "FOX", 
+            "winner": ""
+        }, 
+        {
+            "awayTeam": "LAC", 
+            "gameDate": "2018-09-16", 
+            "gameId": "19", 
+            "gameTimeET": "1:00 PM", 
+            "gameWeek": "2", 
+            "homeTeam": "BUF", 
+            "tvStation": "CBS", 
+            "winner": ""
+        }, 
+        {
+            "awayTeam": "MIN", 
+            "gameDate": "2018-09-16", 
+            "gameId": "20", 
+            "gameTimeET": "1:00 PM", 
+            "gameWeek": "2", 
+            "homeTeam": "GB", 
+            "tvStation": "FOX", 
+            "winner": ""
+        }, 
+        {
+            "awayTeam": "CLE", 
+            "gameDate": "2018-09-16", 
+            "gameId": "21", 
+            "gameTimeET": "1:00 PM", 
+            "gameWeek": "2", 
+            "homeTeam": "NO", 
+            "tvStation": "FOX", 
+            "winner": ""
+        }, 
+        {
+            "awayTeam": "MIA", 
+            "gameDate": "2018-09-16", 
+            "gameId": "22", 
+            "gameTimeET": "1:00 PM", 
+            "gameWeek": "2", 
+            "homeTeam": "NYJ", 
+            "tvStation": "CBS", 
+            "winner": ""
+        }, 
+        {
+            "awayTeam": "KC", 
+            "gameDate": "2018-09-16", 
+            "gameId": "23", 
+            "gameTimeET": "1:00 PM", 
+            "gameWeek": "2", 
+            "homeTeam": "PIT", 
+            "tvStation": "CBS", 
+            "winner": ""
+        }, 
+        {
+            "awayTeam": "PHI", 
+            "gameDate": "2018-09-16", 
+            "gameId": "24", 
+            "gameTimeET": "1:00 PM", 
+            "gameWeek": "2", 
+            "homeTeam": "TB", 
+            "tvStation": "FOX", 
+            "winner": ""
+        }, 
+        {
+            "awayTeam": "HOU", 
+            "gameDate": "2018-09-16", 
+            "gameId": "25", 
+            "gameTimeET": "1:00 PM", 
+            "gameWeek": "2", 
+            "homeTeam": "TEN", 
+            "tvStation": "CBS", 
+            "winner": ""
+        }, 
+        {
+            "awayTeam": "IND", 
+            "gameDate": "2018-09-16", 
+            "gameId": "26", 
+            "gameTimeET": "1:00 PM", 
+            "gameWeek": "2", 
+            "homeTeam": "WAS", 
+            "tvStation": "CBS", 
+            "winner": ""
+        }, 
+        {
+            "awayTeam": "ARI", 
+            "gameDate": "2018-09-16", 
+            "gameId": "27", 
+            "gameTimeET": "4:05 PM", 
+            "gameWeek": "2", 
+            "homeTeam": "LAR", 
+            "tvStation": "FOX", 
+            "winner": ""
+        }, 
+        {
+            "awayTeam": "DET", 
+            "gameDate": "2018-09-16", 
+            "gameId": "28", 
+            "gameTimeET": "4:05 PM", 
+            "gameWeek": "2", 
+            "homeTeam": "SF", 
+            "tvStation": "FOX", 
+            "winner": ""
+        }, 
+        {
+            "awayTeam": "OAK", 
+            "gameDate": "2018-09-16", 
+            "gameId": "29", 
+            "gameTimeET": "4:25 PM", 
+            "gameWeek": "2", 
+            "homeTeam": "DEN", 
+            "tvStation": "CBS", 
+            "winner": ""
+        }, 
+        {
+            "awayTeam": "NE", 
+            "gameDate": "2018-09-16", 
+            "gameId": "30", 
+            "gameTimeET": "4:25 PM", 
+            "gameWeek": "2", 
+            "homeTeam": "JAC", 
+            "tvStation": "CBS", 
+            "winner": ""
+        }, 
+        {
+            "awayTeam": "NYG", 
+            "gameDate": "2018-09-16", 
+            "gameId": "31", 
+            "gameTimeET": "8:20 PM", 
+            "gameWeek": "2", 
+            "homeTeam": "DAL", 
+            "tvStation": "NBC", 
+            "winner": ""
+        }, 
+        {
+            "awayTeam": "SEA", 
+            "gameDate": "2018-09-17", 
+            "gameId": "32", 
+            "gameTimeET": "8:15 PM", 
+            "gameWeek": "2", 
+            "homeTeam": "CHI", 
+            "tvStation": "ESPN", 
+            "winner": ""
+        }, 
+        {
+            "awayTeam": "NYJ", 
+            "gameDate": "2018-09-20", 
+            "gameId": "33", 
+            "gameTimeET": "8:20 PM", 
+            "gameWeek": "3", 
+            "homeTeam": "CLE", 
+            "tvStation": "NFLN", 
+            "winner": ""
+        }, 
+        {
+            "awayTeam": "NO", 
+            "gameDate": "2018-09-23", 
+            "gameId": "34", 
+            "gameTimeET": "1:00 PM", 
+            "gameWeek": "3", 
+            "homeTeam": "ATL", 
+            "tvStation": "FOX", 
+            "winner": ""
+        }, 
+        {
+            "awayTeam": "DEN", 
+            "gameDate": "2018-09-23", 
+            "gameId": "35", 
+            "gameTimeET": "1:00 PM", 
+            "gameWeek": "3", 
+            "homeTeam": "BAL", 
+            "tvStation": "CBS", 
+            "winner": ""
+        }, 
+        {
+            "awayTeam": "CIN", 
+            "gameDate": "2018-09-23", 
+            "gameId": "36", 
+            "gameTimeET": "1:00 PM", 
+            "gameWeek": "3", 
+            "homeTeam": "CAR", 
+            "tvStation": "CBS", 
+            "winner": ""
+        }, 
+        {
+            "awayTeam": "NYG", 
+            "gameDate": "2018-09-23", 
+            "gameId": "37", 
+            "gameTimeET": "1:00 PM", 
+            "gameWeek": "3", 
+            "homeTeam": "HOU", 
+            "tvStation": "FOX", 
+            "winner": ""
+        }, 
+        {
+            "awayTeam": "TEN", 
+            "gameDate": "2018-09-23", 
+            "gameId": "38", 
+            "gameTimeET": "1:00 PM", 
+            "gameWeek": "3", 
+            "homeTeam": "JAC", 
+            "tvStation": "CBS", 
+            "winner": ""
+        }, 
+        {
+            "awayTeam": "SF", 
+            "gameDate": "2018-09-23", 
+            "gameId": "39", 
+            "gameTimeET": "1:00 PM", 
+            "gameWeek": "3", 
+            "homeTeam": "KC", 
+            "tvStation": "FOX", 
+            "winner": ""
+        }, 
+        {
+            "awayTeam": "OAK", 
+            "gameDate": "2018-09-23", 
+            "gameId": "40", 
+            "gameTimeET": "1:00 PM", 
+            "gameWeek": "3", 
+            "homeTeam": "MIA", 
+            "tvStation": "CBS", 
+            "winner": ""
+        }, 
+        {
+            "awayTeam": "BUF", 
+            "gameDate": "2018-09-23", 
+            "gameId": "41", 
+            "gameTimeET": "1:00 PM", 
+            "gameWeek": "3", 
+            "homeTeam": "MIN", 
+            "tvStation": "CBS", 
+            "winner": ""
+        }, 
+        {
+            "awayTeam": "IND", 
+            "gameDate": "2018-09-23", 
+            "gameId": "42", 
+            "gameTimeET": "1:00 PM", 
+            "gameWeek": "3", 
+            "homeTeam": "PHI", 
+            "tvStation": "FOX", 
+            "winner": ""
+        }, 
+        {
+            "awayTeam": "GB", 
+            "gameDate": "2018-09-23", 
+            "gameId": "43", 
+            "gameTimeET": "1:00 PM", 
+            "gameWeek": "3", 
+            "homeTeam": "WAS", 
+            "tvStation": "FOX", 
+            "winner": ""
+        }, 
+        {
+            "awayTeam": "LAC", 
+            "gameDate": "2018-09-23", 
+            "gameId": "44", 
+            "gameTimeET": "4:05 PM", 
+            "gameWeek": "3", 
+            "homeTeam": "LAR", 
+            "tvStation": "CBS", 
+            "winner": ""
+        }, 
+        {
+            "awayTeam": "CHI", 
+            "gameDate": "2018-09-23", 
+            "gameId": "45", 
+            "gameTimeET": "4:25 PM", 
+            "gameWeek": "3", 
+            "homeTeam": "ARI", 
+            "tvStation": "FOX", 
+            "winner": ""
+        }, 
+        {
+            "awayTeam": "DAL", 
+            "gameDate": "2018-09-23", 
+            "gameId": "46", 
+            "gameTimeET": "4:25 PM", 
+            "gameWeek": "3", 
+            "homeTeam": "SEA", 
+            "tvStation": "FOX", 
+            "winner": ""
+        }, 
+        {
+            "awayTeam": "NE", 
+            "gameDate": "2018-09-23", 
+            "gameId": "47", 
+            "gameTimeET": "8:20 PM", 
+            "gameWeek": "3", 
+            "homeTeam": "DET", 
+            "tvStation": "NBC", 
+            "winner": ""
+        }, 
+        {
+            "awayTeam": "PIT", 
+            "gameDate": "2018-09-24", 
+            "gameId": "48", 
+            "gameTimeET": "8:15 PM", 
+            "gameWeek": "3", 
+            "homeTeam": "TB", 
+            "tvStation": "ESPN", 
+            "winner": ""
+        }, 
+        {
+            "awayTeam": "MIN", 
+            "gameDate": "2018-09-27", 
+            "gameId": "49", 
+            "gameTimeET": "8:20 PM", 
+            "gameWeek": "4", 
+            "homeTeam": "LAR", 
+            "tvStation": "FOX/NFLN", 
+            "winner": ""
+        }, 
+        {
+            "awayTeam": "CIN", 
+            "gameDate": "2018-09-30", 
+            "gameId": "50", 
+            "gameTimeET": "1:00 PM", 
+            "gameWeek": "4", 
+            "homeTeam": "ATL", 
+            "tvStation": "CBS", 
+            "winner": ""
+        }, 
+        {
+            "awayTeam": "TB", 
+            "gameDate": "2018-09-30", 
+            "gameId": "51", 
+            "gameTimeET": "1:00 PM", 
+            "gameWeek": "4", 
+            "homeTeam": "CHI", 
+            "tvStation": "FOX", 
+            "winner": ""
+        }, 
+        {
+            "awayTeam": "DET", 
+            "gameDate": "2018-09-30", 
+            "gameId": "52", 
+            "gameTimeET": "1:00 PM", 
+            "gameWeek": "4", 
+            "homeTeam": "DAL", 
+            "tvStation": "FOX", 
+            "winner": ""
+        }, 
+        {
+            "awayTeam": "BUF", 
+            "gameDate": "2018-09-30", 
+            "gameId": "53", 
+            "gameTimeET": "1:00 PM", 
+            "gameWeek": "4", 
+            "homeTeam": "GB", 
+            "tvStation": "CBS", 
+            "winner": ""
+        }, 
+        {
+            "awayTeam": "HOU", 
+            "gameDate": "2018-09-30", 
+            "gameId": "54", 
+            "gameTimeET": "1:00 PM", 
+            "gameWeek": "4", 
+            "homeTeam": "IND", 
+            "tvStation": "CBS", 
+            "winner": ""
+        }, 
+        {
+            "awayTeam": "NYJ", 
+            "gameDate": "2018-09-30", 
+            "gameId": "55", 
+            "gameTimeET": "1:00 PM", 
+            "gameWeek": "4", 
+            "homeTeam": "JAC", 
+            "tvStation": "FOX", 
+            "winner": ""
+        }, 
+        {
+            "awayTeam": "MIA", 
+            "gameDate": "2018-09-30", 
+            "gameId": "56", 
+            "gameTimeET": "1:00 PM", 
+            "gameWeek": "4", 
+            "homeTeam": "NE", 
+            "tvStation": "CBS", 
+            "winner": ""
+        }, 
+        {
+            "awayTeam": "PHI", 
+            "gameDate": "2018-09-30", 
+            "gameId": "57", 
+            "gameTimeET": "1:00 PM", 
+            "gameWeek": "4", 
+            "homeTeam": "TEN", 
+            "tvStation": "FOX", 
+            "winner": ""
+        }, 
+        {
+            "awayTeam": "SEA", 
+            "gameDate": "2018-09-30", 
+            "gameId": "58", 
+            "gameTimeET": "4:05 PM", 
+            "gameWeek": "4", 
+            "homeTeam": "ARI", 
+            "tvStation": "FOX", 
+            "winner": ""
+        }, 
+        {
+            "awayTeam": "CLE", 
+            "gameDate": "2018-09-30", 
+            "gameId": "59", 
+            "gameTimeET": "4:05 PM", 
+            "gameWeek": "4", 
+            "homeTeam": "OAK", 
+            "tvStation": "FOX", 
+            "winner": ""
+        }, 
+        {
+            "awayTeam": "SF", 
+            "gameDate": "2018-09-30", 
+            "gameId": "60", 
+            "gameTimeET": "4:25 PM", 
+            "gameWeek": "4", 
+            "homeTeam": "LAC", 
+            "tvStation": "CBS", 
+            "winner": ""
+        }, 
+        {
+            "awayTeam": "NO", 
+            "gameDate": "2018-09-30", 
+            "gameId": "61", 
+            "gameTimeET": "4:25 PM", 
+            "gameWeek": "4", 
+            "homeTeam": "NYG", 
+            "tvStation": "CBS", 
+            "winner": ""
+        }, 
+        {
+            "awayTeam": "BAL", 
+            "gameDate": "2018-09-30", 
+            "gameId": "62", 
+            "gameTimeET": "8:20 PM", 
+            "gameWeek": "4", 
+            "homeTeam": "PIT", 
+            "tvStation": "NBC", 
+            "winner": ""
+        }, 
+        {
+            "awayTeam": "KC", 
+            "gameDate": "2018-10-01", 
+            "gameId": "63", 
+            "gameTimeET": "8:15 PM", 
+            "gameWeek": "4", 
+            "homeTeam": "DEN", 
+            "tvStation": "ESPN", 
+            "winner": ""
+        }, 
+        {
+            "awayTeam": "IND", 
+            "gameDate": "2018-10-04", 
+            "gameId": "64", 
+            "gameTimeET": "8:20 PM", 
+            "gameWeek": "5", 
+            "homeTeam": "NE", 
+            "tvStation": "FOX/NFLN", 
+            "winner": ""
+        }, 
+        {
+            "awayTeam": "TEN", 
+            "gameDate": "2018-10-07", 
+            "gameId": "65", 
+            "gameTimeET": "1:00 PM", 
+            "gameWeek": "5", 
+            "homeTeam": "BUF", 
+            "tvStation": "CBS", 
+            "winner": ""
+        }, 
+        {
+            "awayTeam": "NYG", 
+            "gameDate": "2018-10-07", 
+            "gameId": "66", 
+            "gameTimeET": "1:00 PM", 
+            "gameWeek": "5", 
+            "homeTeam": "CAR", 
+            "tvStation": "FOX", 
+            "winner": ""
+        }, 
+        {
+            "awayTeam": "MIA", 
+            "gameDate": "2018-10-07", 
+            "gameId": "67", 
+            "gameTimeET": "1:00 PM", 
+            "gameWeek": "5", 
+            "homeTeam": "CIN", 
+            "tvStation": "CBS", 
+            "winner": ""
+        }, 
+        {
+            "awayTeam": "BAL", 
+            "gameDate": "2018-10-07", 
+            "gameId": "68", 
+            "gameTimeET": "1:00 PM", 
+            "gameWeek": "5", 
+            "homeTeam": "CLE", 
+            "tvStation": "CBS", 
+            "winner": ""
+        }, 
+        {
+            "awayTeam": "GB", 
+            "gameDate": "2018-10-07", 
+            "gameId": "69", 
+            "gameTimeET": "1:00 PM", 
+            "gameWeek": "5", 
+            "homeTeam": "DET", 
+            "tvStation": "FOX", 
+            "winner": ""
+        }, 
+        {
+            "awayTeam": "JAC", 
+            "gameDate": "2018-10-07", 
+            "gameId": "70", 
+            "gameTimeET": "1:00 PM", 
+            "gameWeek": "5", 
+            "homeTeam": "KC", 
+            "tvStation": "CBS", 
+            "winner": ""
+        }, 
+        {
+            "awayTeam": "DEN", 
+            "gameDate": "2018-10-07", 
+            "gameId": "71", 
+            "gameTimeET": "1:00 PM", 
+            "gameWeek": "5", 
+            "homeTeam": "NYJ", 
+            "tvStation": "CBS", 
+            "winner": ""
+        }, 
+        {
+            "awayTeam": "ATL", 
+            "gameDate": "2018-10-07", 
+            "gameId": "72", 
+            "gameTimeET": "1:00 PM", 
+            "gameWeek": "5", 
+            "homeTeam": "PIT", 
+            "tvStation": "FOX", 
+            "winner": ""
+        }, 
+        {
+            "awayTeam": "OAK", 
+            "gameDate": "2018-10-07", 
+            "gameId": "73", 
+            "gameTimeET": "4:05 PM", 
+            "gameWeek": "5", 
+            "homeTeam": "LAC", 
+            "tvStation": "CBS", 
+            "winner": ""
+        }, 
+        {
+            "awayTeam": "MIN", 
+            "gameDate": "2018-10-07", 
+            "gameId": "74", 
+            "gameTimeET": "4:25 PM", 
+            "gameWeek": "5", 
+            "homeTeam": "PHI", 
+            "tvStation": "FOX", 
+            "winner": ""
+        }, 
+        {
+            "awayTeam": "ARI", 
+            "gameDate": "2018-10-07", 
+            "gameId": "75", 
+            "gameTimeET": "4:25 PM", 
+            "gameWeek": "5", 
+            "homeTeam": "SF", 
+            "tvStation": "FOX", 
+            "winner": ""
+        }, 
+        {
+            "awayTeam": "LAR", 
+            "gameDate": "2018-10-07", 
+            "gameId": "76", 
+            "gameTimeET": "4:25 PM", 
+            "gameWeek": "5", 
+            "homeTeam": "SEA", 
+            "tvStation": "FOX", 
+            "winner": ""
+        }, 
+        {
+            "awayTeam": "DAL", 
+            "gameDate": "2018-10-07", 
+            "gameId": "77", 
+            "gameTimeET": "8:20 PM", 
+            "gameWeek": "5", 
+            "homeTeam": "HOU", 
+            "tvStation": "NBC", 
+            "winner": ""
+        }, 
+        {
+            "awayTeam": "WAS", 
+            "gameDate": "2018-10-08", 
+            "gameId": "78", 
+            "gameTimeET": "8:15 PM", 
+            "gameWeek": "5", 
+            "homeTeam": "NO", 
+            "tvStation": "ESPN", 
+            "winner": ""
+        }, 
+        {
+            "awayTeam": "PHI", 
+            "gameDate": "2018-10-11", 
+            "gameId": "79", 
+            "gameTimeET": "8:20 PM", 
+            "gameWeek": "6", 
+            "homeTeam": "NYG", 
+            "tvStation": "FOX/NFLN", 
+            "winner": ""
+        }, 
+        {
+            "awayTeam": "TB", 
+            "gameDate": "2018-10-14", 
+            "gameId": "80", 
+            "gameTimeET": "1:00 PM", 
+            "gameWeek": "6", 
+            "homeTeam": "ATL", 
+            "tvStation": "FOX", 
+            "winner": ""
+        }, 
+        {
+            "awayTeam": "PIT", 
+            "gameDate": "2018-10-14", 
+            "gameId": "81", 
+            "gameTimeET": "1:00 PM", 
+            "gameWeek": "6", 
+            "homeTeam": "CIN", 
+            "tvStation": "CBS", 
+            "winner": ""
+        }, 
+        {
+            "awayTeam": "LAC", 
+            "gameDate": "2018-10-14", 
+            "gameId": "82", 
+            "gameTimeET": "1:00 PM", 
+            "gameWeek": "6", 
+            "homeTeam": "CLE", 
+            "tvStation": "CBS", 
+            "winner": ""
+        }, 
+        {
+            "awayTeam": "BUF", 
+            "gameDate": "2018-10-14", 
+            "gameId": "83", 
+            "gameTimeET": "1:00 PM", 
+            "gameWeek": "6", 
+            "homeTeam": "HOU", 
+            "tvStation": "CBS", 
+            "winner": ""
+        }, 
+        {
+            "awayTeam": "CHI", 
+            "gameDate": "2018-10-14", 
+            "gameId": "84", 
+            "gameTimeET": "1:00 PM", 
+            "gameWeek": "6", 
+            "homeTeam": "MIA", 
+            "tvStation": "FOX", 
+            "winner": ""
+        }, 
+        {
+            "awayTeam": "ARI", 
+            "gameDate": "2018-10-14", 
+            "gameId": "85", 
+            "gameTimeET": "1:00 PM", 
+            "gameWeek": "6", 
+            "homeTeam": "MIN", 
+            "tvStation": "FOX", 
+            "winner": ""
+        }, 
+        {
+            "awayTeam": "IND", 
+            "gameDate": "2018-10-14", 
+            "gameId": "86", 
+            "gameTimeET": "1:00 PM", 
+            "gameWeek": "6", 
+            "homeTeam": "NYJ", 
+            "tvStation": "CBS", 
+            "winner": ""
+        }, 
+        {
+            "awayTeam": "SEA", 
+            "gameDate": "2018-10-14", 
+            "gameId": "87", 
+            "gameTimeET": "1:00 PM", 
+            "gameWeek": "6", 
+            "homeTeam": "OAK", 
+            "tvStation": "FOX", 
+            "winner": ""
+        }, 
+        {
+            "awayTeam": "CAR", 
+            "gameDate": "2018-10-14", 
+            "gameId": "88", 
+            "gameTimeET": "1:00 PM", 
+            "gameWeek": "6", 
+            "homeTeam": "WAS", 
+            "tvStation": "FOX", 
+            "winner": ""
+        }, 
+        {
+            "awayTeam": "LAR", 
+            "gameDate": "2018-10-14", 
+            "gameId": "89", 
+            "gameTimeET": "4:05 PM", 
+            "gameWeek": "6", 
+            "homeTeam": "DEN", 
+            "tvStation": "FOX", 
+            "winner": ""
+        }, 
+        {
+            "awayTeam": "JAC", 
+            "gameDate": "2018-10-14", 
+            "gameId": "90", 
+            "gameTimeET": "4:25 PM", 
+            "gameWeek": "6", 
+            "homeTeam": "DAL", 
+            "tvStation": "CBS", 
+            "winner": ""
+        }, 
+        {
+            "awayTeam": "BAL", 
+            "gameDate": "2018-10-14", 
+            "gameId": "91", 
+            "gameTimeET": "4:25 PM", 
+            "gameWeek": "6", 
+            "homeTeam": "TEN", 
+            "tvStation": "CBS", 
+            "winner": ""
+        }, 
+        {
+            "awayTeam": "KC", 
+            "gameDate": "2018-10-14", 
+            "gameId": "92", 
+            "gameTimeET": "8:20 PM", 
+            "gameWeek": "6", 
+            "homeTeam": "NE", 
+            "tvStation": "NBC", 
+            "winner": ""
+        }, 
+        {
+            "awayTeam": "SF", 
+            "gameDate": "2018-10-15", 
+            "gameId": "93", 
+            "gameTimeET": "8:15 PM", 
+            "gameWeek": "6", 
+            "homeTeam": "GB", 
+            "tvStation": "ESPN", 
+            "winner": ""
+        }, 
+        {
+            "awayTeam": "DEN", 
+            "gameDate": "2018-10-18", 
+            "gameId": "94", 
+            "gameTimeET": "8:20 PM", 
+            "gameWeek": "7", 
+            "homeTeam": "ARI", 
+            "tvStation": "FOX/NFLN", 
+            "winner": ""
+        }, 
+        {
+            "awayTeam": "TEN", 
+            "gameDate": "2018-10-21", 
+            "gameId": "95", 
+            "gameTimeET": "9:30 AM", 
+            "gameWeek": "7", 
+            "homeTeam": "LAC", 
+            "tvStation": "CBS", 
+            "winner": ""
+        }, 
+        {
+            "awayTeam": "NE", 
+            "gameDate": "2018-10-21", 
+            "gameId": "96", 
+            "gameTimeET": "1:00 PM", 
+            "gameWeek": "7", 
+            "homeTeam": "CHI", 
+            "tvStation": "CBS", 
+            "winner": ""
+        }, 
+        {
+            "awayTeam": "BUF", 
+            "gameDate": "2018-10-21", 
+            "gameId": "97", 
+            "gameTimeET": "1:00 PM", 
+            "gameWeek": "7", 
+            "homeTeam": "IND", 
+            "tvStation": "CBS", 
+            "winner": ""
+        }, 
+        {
+            "awayTeam": "HOU", 
+            "gameDate": "2018-10-21", 
+            "gameId": "98", 
+            "gameTimeET": "1:00 PM", 
+            "gameWeek": "7", 
+            "homeTeam": "JAC", 
+            "tvStation": "CBS", 
+            "winner": ""
+        }, 
+        {
+            "awayTeam": "CIN", 
+            "gameDate": "2018-10-21", 
+            "gameId": "99", 
+            "gameTimeET": "1:00 PM", 
+            "gameWeek": "7", 
+            "homeTeam": "KC", 
+            "tvStation": "CBS", 
+            "winner": ""
+        }, 
+        {
+            "awayTeam": "DET", 
+            "gameDate": "2018-10-21", 
+            "gameId": "100", 
+            "gameTimeET": "1:00 PM", 
+            "gameWeek": "7", 
+            "homeTeam": "MIA", 
+            "tvStation": "FOX", 
+            "winner": ""
+        }, 
+        {
+            "awayTeam": "MIN", 
+            "gameDate": "2018-10-21", 
+            "gameId": "101", 
+            "gameTimeET": "1:00 PM", 
+            "gameWeek": "7", 
+            "homeTeam": "NYJ", 
+            "tvStation": "FOX", 
+            "winner": ""
+        }, 
+        {
+            "awayTeam": "CAR", 
+            "gameDate": "2018-10-21", 
+            "gameId": "102", 
+            "gameTimeET": "1:00 PM", 
+            "gameWeek": "7", 
+            "homeTeam": "PHI", 
+            "tvStation": "FOX", 
+            "winner": ""
+        }, 
+        {
+            "awayTeam": "CLE", 
+            "gameDate": "2018-10-21", 
+            "gameId": "103", 
+            "gameTimeET": "1:00 PM", 
+            "gameWeek": "7", 
+            "homeTeam": "TB", 
+            "tvStation": "FOX", 
+            "winner": ""
+        }, 
+        {
+            "awayTeam": "NO", 
+            "gameDate": "2018-10-21", 
+            "gameId": "104", 
+            "gameTimeET": "4:05 PM", 
+            "gameWeek": "7", 
+            "homeTeam": "BAL", 
+            "tvStation": "FOX", 
+            "winner": ""
+        }, 
+        {
+            "awayTeam": "DAL", 
+            "gameDate": "2018-10-21", 
+            "gameId": "105", 
+            "gameTimeET": "4:25 PM", 
+            "gameWeek": "7", 
+            "homeTeam": "WAS", 
+            "tvStation": "CBS", 
+            "winner": ""
+        }, 
+        {
+            "awayTeam": "LAR", 
+            "gameDate": "2018-10-21", 
+            "gameId": "106", 
+            "gameTimeET": "8:20 PM", 
+            "gameWeek": "7", 
+            "homeTeam": "SF", 
+            "tvStation": "NBC", 
+            "winner": ""
+        }, 
+        {
+            "awayTeam": "NYG", 
+            "gameDate": "2018-10-22", 
+            "gameId": "107", 
+            "gameTimeET": "8:15 PM", 
+            "gameWeek": "7", 
+            "homeTeam": "ATL", 
+            "tvStation": "ESPN", 
+            "winner": ""
+        }, 
+        {
+            "awayTeam": "MIA", 
+            "gameDate": "2018-10-25", 
+            "gameId": "108", 
+            "gameTimeET": "8:20 PM", 
+            "gameWeek": "8", 
+            "homeTeam": "HOU", 
+            "tvStation": "FOX/NFLN", 
+            "winner": ""
+        }, 
+        {
+            "awayTeam": "PHI", 
+            "gameDate": "2018-10-28", 
+            "gameId": "109", 
+            "gameTimeET": "9:30 AM", 
+            "gameWeek": "8", 
+            "homeTeam": "JAC", 
+            "tvStation": "NFLN", 
+            "winner": ""
+        }, 
+        {
+            "awayTeam": "BAL", 
+            "gameDate": "2018-10-28", 
+            "gameId": "110", 
+            "gameTimeET": "1:00 PM", 
+            "gameWeek": "8", 
+            "homeTeam": "CAR", 
+            "tvStation": "CBS", 
+            "winner": ""
+        }, 
+        {
+            "awayTeam": "NYJ", 
+            "gameDate": "2018-10-28", 
+            "gameId": "111", 
+            "gameTimeET": "1:00 PM", 
+            "gameWeek": "8", 
+            "homeTeam": "CHI", 
+            "tvStation": "CBS", 
+            "winner": ""
+        }, 
+        {
+            "awayTeam": "TB", 
+            "gameDate": "2018-10-28", 
+            "gameId": "112", 
+            "gameTimeET": "1:00 PM", 
+            "gameWeek": "8", 
+            "homeTeam": "CIN", 
+            "tvStation": "FOX", 
+            "winner": ""
+        }, 
+        {
+            "awayTeam": "SEA", 
+            "gameDate": "2018-10-28", 
+            "gameId": "113", 
+            "gameTimeET": "1:00 PM", 
+            "gameWeek": "8", 
+            "homeTeam": "DET", 
+            "tvStation": "FOX", 
+            "winner": ""
+        }, 
+        {
+            "awayTeam": "DEN", 
+            "gameDate": "2018-10-28", 
+            "gameId": "114", 
+            "gameTimeET": "1:00 PM", 
+            "gameWeek": "8", 
+            "homeTeam": "KC", 
+            "tvStation": "CBS", 
+            "winner": ""
+        }, 
+        {
+            "awayTeam": "WAS", 
+            "gameDate": "2018-10-28", 
+            "gameId": "115", 
+            "gameTimeET": "1:00 PM", 
+            "gameWeek": "8", 
+            "homeTeam": "NYG", 
+            "tvStation": "FOX", 
+            "winner": ""
+        }, 
+        {
+            "awayTeam": "CLE", 
+            "gameDate": "2018-10-28", 
+            "gameId": "116", 
+            "gameTimeET": "1:00 PM", 
+            "gameWeek": "8", 
+            "homeTeam": "PIT", 
+            "tvStation": "CBS", 
+            "winner": ""
+        }, 
+        {
+            "awayTeam": "IND", 
+            "gameDate": "2018-10-28", 
+            "gameId": "117", 
+            "gameTimeET": "4:05 PM", 
+            "gameWeek": "8", 
+            "homeTeam": "OAK", 
+            "tvStation": "CBS", 
+            "winner": ""
+        }, 
+        {
+            "awayTeam": "SF", 
+            "gameDate": "2018-10-28", 
+            "gameId": "118", 
+            "gameTimeET": "4:25 PM", 
+            "gameWeek": "8", 
+            "homeTeam": "ARI", 
+            "tvStation": "FOX", 
+            "winner": ""
+        }, 
+        {
+            "awayTeam": "GB", 
+            "gameDate": "2018-10-28", 
+            "gameId": "119", 
+            "gameTimeET": "4:25 PM", 
+            "gameWeek": "8", 
+            "homeTeam": "LAR", 
+            "tvStation": "FOX", 
+            "winner": ""
+        }, 
+        {
+            "awayTeam": "NO", 
+            "gameDate": "2018-10-28", 
+            "gameId": "120", 
+            "gameTimeET": "8:20 PM", 
+            "gameWeek": "8", 
+            "homeTeam": "MIN", 
+            "tvStation": "NBC", 
+            "winner": ""
+        }, 
+        {
+            "awayTeam": "NE", 
+            "gameDate": "2018-10-29", 
+            "gameId": "121", 
+            "gameTimeET": "8:15 PM", 
+            "gameWeek": "8", 
+            "homeTeam": "BUF", 
+            "tvStation": "ESPN", 
+            "winner": ""
+        }, 
+        {
+            "awayTeam": "OAK", 
+            "gameDate": "2018-11-01", 
+            "gameId": "122", 
+            "gameTimeET": "8:20 PM", 
+            "gameWeek": "9", 
+            "homeTeam": "SF", 
+            "tvStation": "FOX/NFLN", 
+            "winner": ""
+        }, 
+        {
+            "awayTeam": "PIT", 
+            "gameDate": "2018-11-04", 
+            "gameId": "123", 
+            "gameTimeET": "1:00 PM", 
+            "gameWeek": "9", 
+            "homeTeam": "BAL", 
+            "tvStation": "CBS", 
+            "winner": ""
+        }, 
+        {
+            "awayTeam": "CHI", 
+            "gameDate": "2018-11-04", 
+            "gameId": "124", 
+            "gameTimeET": "1:00 PM", 
+            "gameWeek": "9", 
+            "homeTeam": "BUF", 
+            "tvStation": "FOX", 
+            "winner": ""
+        }, 
+        {
+            "awayTeam": "TB", 
+            "gameDate": "2018-11-04", 
+            "gameId": "125", 
+            "gameTimeET": "1:00 PM", 
+            "gameWeek": "9", 
+            "homeTeam": "CAR", 
+            "tvStation": "FOX", 
+            "winner": ""
+        }, 
+        {
+            "awayTeam": "KC", 
+            "gameDate": "2018-11-04", 
+            "gameId": "126", 
+            "gameTimeET": "1:00 PM", 
+            "gameWeek": "9", 
+            "homeTeam": "CLE", 
+            "tvStation": "CBS", 
+            "winner": ""
+        }, 
+        {
+            "awayTeam": "NYJ", 
+            "gameDate": "2018-11-04", 
+            "gameId": "127", 
+            "gameTimeET": "1:00 PM", 
+            "gameWeek": "9", 
+            "homeTeam": "MIA", 
+            "tvStation": "CBS", 
+            "winner": ""
+        }, 
+        {
+            "awayTeam": "DET", 
+            "gameDate": "2018-11-04", 
+            "gameId": "128", 
+            "gameTimeET": "1:00 PM", 
+            "gameWeek": "9", 
+            "homeTeam": "MIN", 
+            "tvStation": "FOX", 
+            "winner": ""
+        }, 
+        {
+            "awayTeam": "ATL", 
+            "gameDate": "2018-11-04", 
+            "gameId": "129", 
+            "gameTimeET": "1:00 PM", 
+            "gameWeek": "9", 
+            "homeTeam": "WAS", 
+            "tvStation": "FOX", 
+            "winner": ""
+        }, 
+        {
+            "awayTeam": "HOU", 
+            "gameDate": "2018-11-04", 
+            "gameId": "130", 
+            "gameTimeET": "4:05 PM", 
+            "gameWeek": "9", 
+            "homeTeam": "DEN", 
+            "tvStation": "CBS", 
+            "winner": ""
+        }, 
+        {
+            "awayTeam": "LAC", 
+            "gameDate": "2018-11-04", 
+            "gameId": "131", 
+            "gameTimeET": "4:05 PM", 
+            "gameWeek": "9", 
+            "homeTeam": "SEA", 
+            "tvStation": "CBS", 
+            "winner": ""
+        }, 
+        {
+            "awayTeam": "LAR", 
+            "gameDate": "2018-11-04", 
+            "gameId": "132", 
+            "gameTimeET": "4:25 PM", 
+            "gameWeek": "9", 
+            "homeTeam": "NO", 
+            "tvStation": "FOX", 
+            "winner": ""
+        }, 
+        {
+            "awayTeam": "GB", 
+            "gameDate": "2018-11-04", 
+            "gameId": "133", 
+            "gameTimeET": "8:20 PM", 
+            "gameWeek": "9", 
+            "homeTeam": "NE", 
+            "tvStation": "NBC", 
+            "winner": ""
+        }, 
+        {
+            "awayTeam": "TEN", 
+            "gameDate": "2018-11-05", 
+            "gameId": "134", 
+            "gameTimeET": "8:15 PM", 
+            "gameWeek": "9", 
+            "homeTeam": "DAL", 
+            "tvStation": "ESPN", 
+            "winner": ""
+        }, 
+        {
+            "awayTeam": "CAR", 
+            "gameDate": "2018-11-08", 
+            "gameId": "135", 
+            "gameTimeET": "8:20 PM", 
+            "gameWeek": "10", 
+            "homeTeam": "PIT", 
+            "tvStation": "FOX/NFLN", 
+            "winner": ""
+        }, 
+        {
+            "awayTeam": "DET", 
+            "gameDate": "2018-11-11", 
+            "gameId": "136", 
+            "gameTimeET": "1:00 PM", 
+            "gameWeek": "10", 
+            "homeTeam": "CHI", 
+            "tvStation": "FOX", 
+            "winner": ""
+        }, 
+        {
+            "awayTeam": "NO", 
+            "gameDate": "2018-11-11", 
+            "gameId": "137", 
+            "gameTimeET": "1:00 PM", 
+            "gameWeek": "10", 
+            "homeTeam": "CIN", 
+            "tvStation": "FOX", 
+            "winner": ""
+        }, 
+        {
+            "awayTeam": "ATL", 
+            "gameDate": "2018-11-11", 
+            "gameId": "138", 
+            "gameTimeET": "1:00 PM", 
+            "gameWeek": "10", 
+            "homeTeam": "CLE", 
+            "tvStation": "FOX", 
+            "winner": ""
+        }, 
+        {
+            "awayTeam": "MIA", 
+            "gameDate": "2018-11-11", 
+            "gameId": "139", 
+            "gameTimeET": "1:00 PM", 
+            "gameWeek": "10", 
+            "homeTeam": "GB", 
+            "tvStation": "CBS", 
+            "winner": ""
+        }, 
+        {
+            "awayTeam": "JAC", 
+            "gameDate": "2018-11-11", 
+            "gameId": "140", 
+            "gameTimeET": "1:00 PM", 
+            "gameWeek": "10", 
+            "homeTeam": "IND", 
+            "tvStation": "CBS", 
+            "winner": ""
+        }, 
+        {
+            "awayTeam": "ARI", 
+            "gameDate": "2018-11-11", 
+            "gameId": "141", 
+            "gameTimeET": "1:00 PM", 
+            "gameWeek": "10", 
+            "homeTeam": "KC", 
+            "tvStation": "FOX", 
+            "winner": ""
+        }, 
+        {
+            "awayTeam": "BUF", 
+            "gameDate": "2018-11-11", 
+            "gameId": "142", 
+            "gameTimeET": "1:00 PM", 
+            "gameWeek": "10", 
+            "homeTeam": "NYJ", 
+            "tvStation": "CBS", 
+            "winner": ""
+        }, 
+        {
+            "awayTeam": "WAS", 
+            "gameDate": "2018-11-11", 
+            "gameId": "143", 
+            "gameTimeET": "1:00 PM", 
+            "gameWeek": "10", 
+            "homeTeam": "TB", 
+            "tvStation": "FOX", 
+            "winner": ""
+        }, 
+        {
+            "awayTeam": "NE", 
+            "gameDate": "2018-11-11", 
+            "gameId": "144", 
+            "gameTimeET": "1:00 PM", 
+            "gameWeek": "10", 
+            "homeTeam": "TEN", 
+            "tvStation": "CBS", 
+            "winner": ""
+        }, 
+        {
+            "awayTeam": "LAC", 
+            "gameDate": "2018-11-11", 
+            "gameId": "145", 
+            "gameTimeET": "4:05 PM", 
+            "gameWeek": "10", 
+            "homeTeam": "OAK", 
+            "tvStation": "FOX", 
+            "winner": ""
+        }, 
+        {
+            "awayTeam": "SEA", 
+            "gameDate": "2018-11-11", 
+            "gameId": "146", 
+            "gameTimeET": "4:25 PM", 
+            "gameWeek": "10", 
+            "homeTeam": "LAR", 
+            "tvStation": "CBS", 
+            "winner": ""
+        }, 
+        {
+            "awayTeam": "DAL", 
+            "gameDate": "2018-11-11", 
+            "gameId": "147", 
+            "gameTimeET": "8:20 PM", 
+            "gameWeek": "10", 
+            "homeTeam": "PHI", 
+            "tvStation": "NBC", 
+            "winner": ""
+        }, 
+        {
+            "awayTeam": "NYG", 
+            "gameDate": "2018-11-12", 
+            "gameId": "148", 
+            "gameTimeET": "8:15 PM", 
+            "gameWeek": "10", 
+            "homeTeam": "SF", 
+            "tvStation": "ESPN", 
+            "winner": ""
+        }, 
+        {
+            "awayTeam": "GB", 
+            "gameDate": "2018-11-15", 
+            "gameId": "149", 
+            "gameTimeET": "8:20 PM", 
+            "gameWeek": "11", 
+            "homeTeam": "SEA", 
+            "tvStation": "FOX/NFLN", 
+            "winner": ""
+        }, 
+        {
+            "awayTeam": "DAL", 
+            "gameDate": "2018-11-18", 
+            "gameId": "150", 
+            "gameTimeET": "1:00 PM", 
+            "gameWeek": "11", 
+            "homeTeam": "ATL", 
+            "tvStation": "FOX", 
+            "winner": ""
+        }, 
+        {
+            "awayTeam": "CIN", 
+            "gameDate": "2018-11-18", 
+            "gameId": "151", 
+            "gameTimeET": "1:00 PM", 
+            "gameWeek": "11", 
+            "homeTeam": "BAL", 
+            "tvStation": "CBS", 
+            "winner": ""
+        }, 
+        {
+            "awayTeam": "MIN", 
+            "gameDate": "2018-11-18", 
+            "gameId": "152", 
+            "gameTimeET": "1:00 PM", 
+            "gameWeek": "11", 
+            "homeTeam": "CHI", 
+            "tvStation": "FOX", 
+            "winner": ""
+        }, 
+        {
+            "awayTeam": "CAR", 
+            "gameDate": "2018-11-18", 
+            "gameId": "153", 
+            "gameTimeET": "1:00 PM", 
+            "gameWeek": "11", 
+            "homeTeam": "DET", 
+            "tvStation": "FOX", 
+            "winner": ""
+        }, 
+        {
+            "awayTeam": "TEN", 
+            "gameDate": "2018-11-18", 
+            "gameId": "154", 
+            "gameTimeET": "1:00 PM", 
+            "gameWeek": "11", 
+            "homeTeam": "IND", 
+            "tvStation": "CBS", 
+            "winner": ""
+        }, 
+        {
+            "awayTeam": "PHI", 
+            "gameDate": "2018-11-18", 
+            "gameId": "155", 
+            "gameTimeET": "1:00 PM", 
+            "gameWeek": "11", 
+            "homeTeam": "NO", 
+            "tvStation": "FOX", 
+            "winner": ""
+        }, 
+        {
+            "awayTeam": "TB", 
+            "gameDate": "2018-11-18", 
+            "gameId": "156", 
+            "gameTimeET": "1:00 PM", 
+            "gameWeek": "11", 
+            "homeTeam": "NYG", 
+            "tvStation": "FOX", 
+            "winner": ""
+        }, 
+        {
+            "awayTeam": "HOU", 
+            "gameDate": "2018-11-18", 
+            "gameId": "157", 
+            "gameTimeET": "1:00 PM", 
+            "gameWeek": "11", 
+            "homeTeam": "WAS", 
+            "tvStation": "CBS", 
+            "winner": ""
+        }, 
+        {
+            "awayTeam": "OAK", 
+            "gameDate": "2018-11-18", 
+            "gameId": "158", 
+            "gameTimeET": "4:05 PM", 
+            "gameWeek": "11", 
+            "homeTeam": "ARI", 
+            "tvStation": "CBS", 
+            "winner": ""
+        }, 
+        {
+            "awayTeam": "DEN", 
+            "gameDate": "2018-11-18", 
+            "gameId": "159", 
+            "gameTimeET": "4:05 PM", 
+            "gameWeek": "11", 
+            "homeTeam": "LAC", 
+            "tvStation": "CBS", 
+            "winner": ""
+        }, 
+        {
+            "awayTeam": "PIT", 
+            "gameDate": "2018-11-18", 
+            "gameId": "160", 
+            "gameTimeET": "8:20 PM", 
+            "gameWeek": "11", 
+            "homeTeam": "JAC", 
+            "tvStation": "NBC", 
+            "winner": ""
+        }, 
+        {
+            "awayTeam": "KC", 
+            "gameDate": "2018-11-19", 
+            "gameId": "161", 
+            "gameTimeET": "8:15 PM", 
+            "gameWeek": "11", 
+            "homeTeam": "LAR", 
+            "tvStation": "ESPN", 
+            "winner": ""
+        }, 
+        {
+            "awayTeam": "CHI", 
+            "gameDate": "2018-11-22", 
+            "gameId": "162", 
+            "gameTimeET": "12:30 PM", 
+            "gameWeek": "12", 
+            "homeTeam": "DET", 
+            "tvStation": "CBS", 
+            "winner": ""
+        }, 
+        {
+            "awayTeam": "WAS", 
+            "gameDate": "2018-11-22", 
+            "gameId": "163", 
+            "gameTimeET": "4:30 PM", 
+            "gameWeek": "12", 
+            "homeTeam": "DAL", 
+            "tvStation": "FOX", 
+            "winner": ""
+        }, 
+        {
+            "awayTeam": "ATL", 
+            "gameDate": "2018-11-22", 
+            "gameId": "164", 
+            "gameTimeET": "8:20 PM", 
+            "gameWeek": "12", 
+            "homeTeam": "NO", 
+            "tvStation": "NBC", 
+            "winner": ""
+        }, 
+        {
+            "awayTeam": "OAK", 
+            "gameDate": "2018-11-25", 
+            "gameId": "165", 
+            "gameTimeET": "1:00 PM", 
+            "gameWeek": "12", 
+            "homeTeam": "BAL", 
+            "tvStation": "CBS", 
+            "winner": ""
+        }, 
+        {
+            "awayTeam": "JAC", 
+            "gameDate": "2018-11-25", 
+            "gameId": "166", 
+            "gameTimeET": "1:00 PM", 
+            "gameWeek": "12", 
+            "homeTeam": "BUF", 
+            "tvStation": "CBS", 
+            "winner": ""
+        }, 
+        {
+            "awayTeam": "SEA", 
+            "gameDate": "2018-11-25", 
+            "gameId": "167", 
+            "gameTimeET": "1:00 PM", 
+            "gameWeek": "12", 
+            "homeTeam": "CAR", 
+            "tvStation": "FOX", 
+            "winner": ""
+        }, 
+        {
+            "awayTeam": "CLE", 
+            "gameDate": "2018-11-25", 
+            "gameId": "168", 
+            "gameTimeET": "1:00 PM", 
+            "gameWeek": "12", 
+            "homeTeam": "CIN", 
+            "tvStation": "CBS", 
+            "winner": ""
+        }, 
+        {
+            "awayTeam": "MIA", 
+            "gameDate": "2018-11-25", 
+            "gameId": "169", 
+            "gameTimeET": "1:00 PM", 
+            "gameWeek": "12", 
+            "homeTeam": "IND", 
+            "tvStation": "CBS", 
+            "winner": ""
+        }, 
+        {
+            "awayTeam": "NE", 
+            "gameDate": "2018-11-25", 
+            "gameId": "170", 
+            "gameTimeET": "1:00 PM", 
+            "gameWeek": "12", 
+            "homeTeam": "NYJ", 
+            "tvStation": "CBS", 
+            "winner": ""
+        }, 
+        {
+            "awayTeam": "NYG", 
+            "gameDate": "2018-11-25", 
+            "gameId": "171", 
+            "gameTimeET": "1:00 PM", 
+            "gameWeek": "12", 
+            "homeTeam": "PHI", 
+            "tvStation": "FOX", 
+            "winner": ""
+        }, 
+        {
+            "awayTeam": "SF", 
+            "gameDate": "2018-11-25", 
+            "gameId": "172", 
+            "gameTimeET": "1:00 PM", 
+            "gameWeek": "12", 
+            "homeTeam": "TB", 
+            "tvStation": "FOX", 
+            "winner": ""
+        }, 
+        {
+            "awayTeam": "ARI", 
+            "gameDate": "2018-11-25", 
+            "gameId": "173", 
+            "gameTimeET": "4:05 PM", 
+            "gameWeek": "12", 
+            "homeTeam": "LAC", 
+            "tvStation": "FOX", 
+            "winner": ""
+        }, 
+        {
+            "awayTeam": "PIT", 
+            "gameDate": "2018-11-25", 
+            "gameId": "174", 
+            "gameTimeET": "4:25 PM", 
+            "gameWeek": "12", 
+            "homeTeam": "DEN", 
+            "tvStation": "CBS", 
+            "winner": ""
+        }, 
+        {
+            "awayTeam": "GB", 
+            "gameDate": "2018-11-25", 
+            "gameId": "175", 
+            "gameTimeET": "8:20 PM", 
+            "gameWeek": "12", 
+            "homeTeam": "MIN", 
+            "tvStation": "NBC", 
+            "winner": ""
+        }, 
+        {
+            "awayTeam": "TEN", 
+            "gameDate": "2018-11-26", 
+            "gameId": "176", 
+            "gameTimeET": "8:15 PM", 
+            "gameWeek": "12", 
+            "homeTeam": "HOU", 
+            "tvStation": "ESPN", 
+            "winner": ""
+        }, 
+        {
+            "awayTeam": "NO", 
+            "gameDate": "2018-11-29", 
+            "gameId": "177", 
+            "gameTimeET": "8:20 PM", 
+            "gameWeek": "13", 
+            "homeTeam": "DAL", 
+            "tvStation": "FOX/NFLN", 
+            "winner": ""
+        }, 
+        {
+            "awayTeam": "BAL", 
+            "gameDate": "2018-12-02", 
+            "gameId": "178", 
+            "gameTimeET": "1:00 PM", 
+            "gameWeek": "13", 
+            "homeTeam": "ATL", 
+            "tvStation": "CBS", 
+            "winner": ""
+        }, 
+        {
+            "awayTeam": "DEN", 
+            "gameDate": "2018-12-02", 
+            "gameId": "179", 
+            "gameTimeET": "1:00 PM", 
+            "gameWeek": "13", 
+            "homeTeam": "CIN", 
+            "tvStation": "CBS", 
+            "winner": ""
+        }, 
+        {
+            "awayTeam": "LAR", 
+            "gameDate": "2018-12-02", 
+            "gameId": "180", 
+            "gameTimeET": "1:00 PM", 
+            "gameWeek": "13", 
+            "homeTeam": "DET", 
+            "tvStation": "FOX", 
+            "winner": ""
+        }, 
+        {
+            "awayTeam": "ARI", 
+            "gameDate": "2018-12-02", 
+            "gameId": "181", 
+            "gameTimeET": "1:00 PM", 
+            "gameWeek": "13", 
+            "homeTeam": "GB", 
+            "tvStation": "FOX", 
+            "winner": ""
+        }, 
+        {
+            "awayTeam": "CLE", 
+            "gameDate": "2018-12-02", 
+            "gameId": "182", 
+            "gameTimeET": "1:00 PM", 
+            "gameWeek": "13", 
+            "homeTeam": "HOU", 
+            "tvStation": "CBS", 
+            "winner": ""
+        }, 
+        {
+            "awayTeam": "IND", 
+            "gameDate": "2018-12-02", 
+            "gameId": "183", 
+            "gameTimeET": "1:00 PM", 
+            "gameWeek": "13", 
+            "homeTeam": "JAC", 
+            "tvStation": "CBS", 
+            "winner": ""
+        }, 
+        {
+            "awayTeam": "BUF", 
+            "gameDate": "2018-12-02", 
+            "gameId": "184", 
+            "gameTimeET": "1:00 PM", 
+            "gameWeek": "13", 
+            "homeTeam": "MIA", 
+            "tvStation": "CBS", 
+            "winner": ""
+        }, 
+        {
+            "awayTeam": "CHI", 
+            "gameDate": "2018-12-02", 
+            "gameId": "185", 
+            "gameTimeET": "1:00 PM", 
+            "gameWeek": "13", 
+            "homeTeam": "NYG", 
+            "tvStation": "FOX", 
+            "winner": ""
+        }, 
+        {
+            "awayTeam": "LAC", 
+            "gameDate": "2018-12-02", 
+            "gameId": "186", 
+            "gameTimeET": "1:00 PM", 
+            "gameWeek": "13", 
+            "homeTeam": "PIT", 
+            "tvStation": "CBS", 
+            "winner": ""
+        }, 
+        {
+            "awayTeam": "CAR", 
+            "gameDate": "2018-12-02", 
+            "gameId": "187", 
+            "gameTimeET": "1:00 PM", 
+            "gameWeek": "13", 
+            "homeTeam": "TB", 
+            "tvStation": "FOX", 
+            "winner": ""
+        }, 
+        {
+            "awayTeam": "KC", 
+            "gameDate": "2018-12-02", 
+            "gameId": "188", 
+            "gameTimeET": "4:05 PM", 
+            "gameWeek": "13", 
+            "homeTeam": "OAK", 
+            "tvStation": "CBS", 
+            "winner": ""
+        }, 
+        {
+            "awayTeam": "NYJ", 
+            "gameDate": "2018-12-02", 
+            "gameId": "189", 
+            "gameTimeET": "4:05 PM", 
+            "gameWeek": "13", 
+            "homeTeam": "TEN", 
+            "tvStation": "CBS", 
+            "winner": ""
+        }, 
+        {
+            "awayTeam": "MIN", 
+            "gameDate": "2018-12-02", 
+            "gameId": "190", 
+            "gameTimeET": "4:25 PM", 
+            "gameWeek": "13", 
+            "homeTeam": "NE", 
+            "tvStation": "FOX", 
+            "winner": ""
+        }, 
+        {
+            "awayTeam": "SF", 
+            "gameDate": "2018-12-02", 
+            "gameId": "191", 
+            "gameTimeET": "8:20 PM", 
+            "gameWeek": "13", 
+            "homeTeam": "SEA", 
+            "tvStation": "NBC", 
+            "winner": ""
+        }, 
+        {
+            "awayTeam": "WAS", 
+            "gameDate": "2018-12-03", 
+            "gameId": "192", 
+            "gameTimeET": "8:15 PM", 
+            "gameWeek": "13", 
+            "homeTeam": "PHI", 
+            "tvStation": "ESPN", 
+            "winner": ""
+        }, 
+        {
+            "awayTeam": "JAC", 
+            "gameDate": "2018-12-06", 
+            "gameId": "193", 
+            "gameTimeET": "8:20 PM", 
+            "gameWeek": "14", 
+            "homeTeam": "TEN", 
+            "tvStation": "FOX/NFLN", 
+            "winner": ""
+        }, 
+        {
+            "awayTeam": "NYJ", 
+            "gameDate": "2018-12-09", 
+            "gameId": "194", 
+            "gameTimeET": "1:00 PM", 
+            "gameWeek": "14", 
+            "homeTeam": "BUF", 
+            "tvStation": "CBS", 
+            "winner": ""
+        }, 
+        {
+            "awayTeam": "LAR", 
+            "gameDate": "2018-12-09", 
+            "gameId": "195", 
+            "gameTimeET": "1:00 PM", 
+            "gameWeek": "14", 
+            "homeTeam": "CHI", 
+            "tvStation": "FOX", 
+            "winner": ""
+        }, 
+        {
+            "awayTeam": "CAR", 
+            "gameDate": "2018-12-09", 
+            "gameId": "196", 
+            "gameTimeET": "1:00 PM", 
+            "gameWeek": "14", 
+            "homeTeam": "CLE", 
+            "tvStation": "FOX", 
+            "winner": ""
+        }, 
+        {
+            "awayTeam": "ATL", 
+            "gameDate": "2018-12-09", 
+            "gameId": "197", 
+            "gameTimeET": "1:00 PM", 
+            "gameWeek": "14", 
+            "homeTeam": "GB", 
+            "tvStation": "FOX", 
+            "winner": ""
+        }, 
+        {
+            "awayTeam": "IND", 
+            "gameDate": "2018-12-09", 
+            "gameId": "198", 
+            "gameTimeET": "1:00 PM", 
+            "gameWeek": "14", 
+            "homeTeam": "HOU", 
+            "tvStation": "CBS", 
+            "winner": ""
+        }, 
+        {
+            "awayTeam": "BAL", 
+            "gameDate": "2018-12-09", 
+            "gameId": "199", 
+            "gameTimeET": "1:00 PM", 
+            "gameWeek": "14", 
+            "homeTeam": "KC", 
+            "tvStation": "CBS", 
+            "winner": ""
+        }, 
+        {
+            "awayTeam": "NE", 
+            "gameDate": "2018-12-09", 
+            "gameId": "200", 
+            "gameTimeET": "1:00 PM", 
+            "gameWeek": "14", 
+            "homeTeam": "MIA", 
+            "tvStation": "CBS", 
+            "winner": ""
+        }, 
+        {
+            "awayTeam": "NO", 
+            "gameDate": "2018-12-09", 
+            "gameId": "201", 
+            "gameTimeET": "1:00 PM", 
+            "gameWeek": "14", 
+            "homeTeam": "TB", 
+            "tvStation": "FOX", 
+            "winner": ""
+        }, 
+        {
+            "awayTeam": "NYG", 
+            "gameDate": "2018-12-09", 
+            "gameId": "202", 
+            "gameTimeET": "1:00 PM", 
+            "gameWeek": "14", 
+            "homeTeam": "WAS", 
+            "tvStation": "FOX", 
+            "winner": ""
+        }, 
+        {
+            "awayTeam": "CIN", 
+            "gameDate": "2018-12-09", 
+            "gameId": "203", 
+            "gameTimeET": "4:05 PM", 
+            "gameWeek": "14", 
+            "homeTeam": "LAC", 
+            "tvStation": "CBS", 
+            "winner": ""
+        }, 
+        {
+            "awayTeam": "DEN", 
+            "gameDate": "2018-12-09", 
+            "gameId": "204", 
+            "gameTimeET": "4:05 PM", 
+            "gameWeek": "14", 
+            "homeTeam": "SF", 
+            "tvStation": "CBS", 
+            "winner": ""
+        }, 
+        {
+            "awayTeam": "DET", 
+            "gameDate": "2018-12-09", 
+            "gameId": "205", 
+            "gameTimeET": "4:25 PM", 
+            "gameWeek": "14", 
+            "homeTeam": "ARI", 
+            "tvStation": "FOX", 
+            "winner": ""
+        }, 
+        {
+            "awayTeam": "PHI", 
+            "gameDate": "2018-12-09", 
+            "gameId": "206", 
+            "gameTimeET": "4:25 PM", 
+            "gameWeek": "14", 
+            "homeTeam": "DAL", 
+            "tvStation": "FOX", 
+            "winner": ""
+        }, 
+        {
+            "awayTeam": "PIT", 
+            "gameDate": "2018-12-09", 
+            "gameId": "207", 
+            "gameTimeET": "8:20 PM", 
+            "gameWeek": "14", 
+            "homeTeam": "OAK", 
+            "tvStation": "NBC", 
+            "winner": ""
+        }, 
+        {
+            "awayTeam": "MIN", 
+            "gameDate": "2018-12-10", 
+            "gameId": "208", 
+            "gameTimeET": "8:15 PM", 
+            "gameWeek": "14", 
+            "homeTeam": "SEA", 
+            "tvStation": "ESPN", 
+            "winner": ""
+        }, 
+        {
+            "awayTeam": "LAC", 
+            "gameDate": "2018-12-13", 
+            "gameId": "209", 
+            "gameTimeET": "8:20 PM", 
+            "gameWeek": "15", 
+            "homeTeam": "KC", 
+            "tvStation": "FOX/NFLN", 
+            "winner": ""
+        }, 
+        {
+            "awayTeam": "HOU", 
+            "gameDate": "2018-12-15", 
+            "gameId": "210", 
+            "gameTimeET": "4:30 PM", 
+            "gameWeek": "15", 
+            "homeTeam": "NYJ", 
+            "tvStation": "NFLN", 
+            "winner": ""
+        }, 
+        {
+            "awayTeam": "CLE", 
+            "gameDate": "2018-12-15", 
+            "gameId": "211", 
+            "gameTimeET": "4:30 PM", 
+            "gameWeek": "15", 
+            "homeTeam": "DEN", 
+            "tvStation": "NFLN", 
+            "winner": ""
+        }, 
+        {
+            "awayTeam": "ARI", 
+            "gameDate": "2018-12-16", 
+            "gameId": "212", 
+            "gameTimeET": "1:00 PM", 
+            "gameWeek": "15", 
+            "homeTeam": "ATL", 
+            "tvStation": "FOX", 
+            "winner": ""
+        }, 
+        {
+            "awayTeam": "TB", 
+            "gameDate": "2018-12-16", 
+            "gameId": "213", 
+            "gameTimeET": "1:00 PM", 
+            "gameWeek": "15", 
+            "homeTeam": "BAL", 
+            "tvStation": "FOX", 
+            "winner": ""
+        }, 
+        {
+            "awayTeam": "DET", 
+            "gameDate": "2018-12-16", 
+            "gameId": "214", 
+            "gameTimeET": "1:00 PM", 
+            "gameWeek": "15", 
+            "homeTeam": "BUF", 
+            "tvStation": "FOX", 
+            "winner": ""
+        }, 
+        {
+            "awayTeam": "GB", 
+            "gameDate": "2018-12-16", 
+            "gameId": "215", 
+            "gameTimeET": "1:00 PM", 
+            "gameWeek": "15", 
+            "homeTeam": "CHI", 
+            "tvStation": "FOX", 
+            "winner": ""
+        }, 
+        {
+            "awayTeam": "OAK", 
+            "gameDate": "2018-12-16", 
+            "gameId": "216", 
+            "gameTimeET": "1:00 PM", 
+            "gameWeek": "15", 
+            "homeTeam": "CIN", 
+            "tvStation": "CBS", 
+            "winner": ""
+        }, 
+        {
+            "awayTeam": "DAL", 
+            "gameDate": "2018-12-16", 
+            "gameId": "217", 
+            "gameTimeET": "1:00 PM", 
+            "gameWeek": "15", 
+            "homeTeam": "IND", 
+            "tvStation": "FOX", 
+            "winner": ""
+        }, 
+        {
+            "awayTeam": "WAS", 
+            "gameDate": "2018-12-16", 
+            "gameId": "218", 
+            "gameTimeET": "1:00 PM", 
+            "gameWeek": "15", 
+            "homeTeam": "JAC", 
+            "tvStation": "FOX", 
+            "winner": ""
+        }, 
+        {
+            "awayTeam": "MIA", 
+            "gameDate": "2018-12-16", 
+            "gameId": "219", 
+            "gameTimeET": "1:00 PM", 
+            "gameWeek": "15", 
+            "homeTeam": "MIN", 
+            "tvStation": "CBS", 
+            "winner": ""
+        }, 
+        {
+            "awayTeam": "TEN", 
+            "gameDate": "2018-12-16", 
+            "gameId": "220", 
+            "gameTimeET": "1:00 PM", 
+            "gameWeek": "15", 
+            "homeTeam": "NYG", 
+            "tvStation": "CBS", 
+            "winner": ""
+        }, 
+        {
+            "awayTeam": "SEA", 
+            "gameDate": "2018-12-16", 
+            "gameId": "221", 
+            "gameTimeET": "4:05 PM", 
+            "gameWeek": "15", 
+            "homeTeam": "SF", 
+            "tvStation": "FOX", 
+            "winner": ""
+        }, 
+        {
+            "awayTeam": "NE", 
+            "gameDate": "2018-12-16", 
+            "gameId": "222", 
+            "gameTimeET": "4:25 PM", 
+            "gameWeek": "15", 
+            "homeTeam": "PIT", 
+            "tvStation": "CBS", 
+            "winner": ""
+        }, 
+        {
+            "awayTeam": "PHI", 
+            "gameDate": "2018-12-16", 
+            "gameId": "223", 
+            "gameTimeET": "8:20 PM", 
+            "gameWeek": "15", 
+            "homeTeam": "LAR", 
+            "tvStation": "NBC", 
+            "winner": ""
+        }, 
+        {
+            "awayTeam": "NO", 
+            "gameDate": "2018-12-17", 
+            "gameId": "224", 
+            "gameTimeET": "8:15 PM", 
+            "gameWeek": "15", 
+            "homeTeam": "CAR", 
+            "tvStation": "ESPN", 
+            "winner": ""
+        }, 
+        {
+            "awayTeam": "NYG", 
+            "gameDate": "2018-12-23", 
+            "gameId": "225", 
+            "gameTimeET": "1:00 PM", 
+            "gameWeek": "16", 
+            "homeTeam": "IND", 
+            "tvStation": "", 
+            "winner": ""
+        }, 
+        {
+            "awayTeam": "BAL", 
+            "gameDate": "2018-12-23", 
+            "gameId": "226", 
+            "gameTimeET": "4:05 PM", 
+            "gameWeek": "16", 
+            "homeTeam": "LAC", 
+            "tvStation": "", 
+            "winner": ""
+        }, 
+        {
+            "awayTeam": "JAC", 
+            "gameDate": "2018-12-23", 
+            "gameId": "227", 
+            "gameTimeET": "1:00 PM", 
+            "gameWeek": "16", 
+            "homeTeam": "MIA", 
+            "tvStation": "", 
+            "winner": ""
+        }, 
+        {
+            "awayTeam": "WAS", 
+            "gameDate": "2018-12-23", 
+            "gameId": "228", 
+            "gameTimeET": "1:00 PM", 
+            "gameWeek": "16", 
+            "homeTeam": "TEN", 
+            "tvStation": "", 
+            "winner": ""
+        }, 
+        {
+            "awayTeam": "ATL", 
+            "gameDate": "2018-12-23", 
+            "gameId": "229", 
+            "gameTimeET": "1:00 PM", 
+            "gameWeek": "16", 
+            "homeTeam": "CAR", 
+            "tvStation": "FOX", 
+            "winner": ""
+        }, 
+        {
+            "awayTeam": "CIN", 
+            "gameDate": "2018-12-23", 
+            "gameId": "230", 
+            "gameTimeET": "1:00 PM", 
+            "gameWeek": "16", 
+            "homeTeam": "CLE", 
+            "tvStation": "CBS", 
+            "winner": ""
+        }, 
+        {
+            "awayTeam": "TB", 
+            "gameDate": "2018-12-23", 
+            "gameId": "231", 
+            "gameTimeET": "1:00 PM", 
+            "gameWeek": "16", 
+            "homeTeam": "DAL", 
+            "tvStation": "FOX", 
+            "winner": ""
+        }, 
+        {
+            "awayTeam": "MIN", 
+            "gameDate": "2018-12-23", 
+            "gameId": "232", 
+            "gameTimeET": "1:00 PM", 
+            "gameWeek": "16", 
+            "homeTeam": "DET", 
+            "tvStation": "FOX", 
+            "winner": ""
+        }, 
+        {
+            "awayTeam": "BUF", 
+            "gameDate": "2018-12-23", 
+            "gameId": "233", 
+            "gameTimeET": "1:00 PM", 
+            "gameWeek": "16", 
+            "homeTeam": "NE", 
+            "tvStation": "CBS", 
+            "winner": ""
+        }, 
+        {
+            "awayTeam": "GB", 
+            "gameDate": "2018-12-23", 
+            "gameId": "234", 
+            "gameTimeET": "1:00 PM", 
+            "gameWeek": "16", 
+            "homeTeam": "NYJ", 
+            "tvStation": "FOX", 
+            "winner": ""
+        }, 
+        {
+            "awayTeam": "HOU", 
+            "gameDate": "2018-12-23", 
+            "gameId": "235", 
+            "gameTimeET": "1:00 PM", 
+            "gameWeek": "16", 
+            "homeTeam": "PHI", 
+            "tvStation": "CBS", 
+            "winner": ""
+        }, 
+        {
+            "awayTeam": "LAR", 
+            "gameDate": "2018-12-23", 
+            "gameId": "236", 
+            "gameTimeET": "4:05 PM", 
+            "gameWeek": "16", 
+            "homeTeam": "ARI", 
+            "tvStation": "FOX", 
+            "winner": ""
+        }, 
+        {
+            "awayTeam": "CHI", 
+            "gameDate": "2018-12-23", 
+            "gameId": "237", 
+            "gameTimeET": "4:05 PM", 
+            "gameWeek": "16", 
+            "homeTeam": "SF", 
+            "tvStation": "FOX", 
+            "winner": ""
+        }, 
+        {
+            "awayTeam": "PIT", 
+            "gameDate": "2018-12-23", 
+            "gameId": "238", 
+            "gameTimeET": "4:25 PM", 
+            "gameWeek": "16", 
+            "homeTeam": "NO", 
+            "tvStation": "CBS", 
+            "winner": ""
+        }, 
+        {
+            "awayTeam": "KC", 
+            "gameDate": "2018-12-23", 
+            "gameId": "239", 
+            "gameTimeET": "8:20 PM", 
+            "gameWeek": "16", 
+            "homeTeam": "SEA", 
+            "tvStation": "NBC", 
+            "winner": ""
+        }, 
+        {
+            "awayTeam": "DEN", 
+            "gameDate": "2018-12-24", 
+            "gameId": "240", 
+            "gameTimeET": "8:15 PM", 
+            "gameWeek": "16", 
+            "homeTeam": "OAK", 
+            "tvStation": "ESPN", 
+            "winner": ""
+        }, 
+        {
+            "awayTeam": "CLE", 
+            "gameDate": "2018-12-30", 
+            "gameId": "241", 
+            "gameTimeET": "1:00 PM", 
+            "gameWeek": "17", 
+            "homeTeam": "BAL", 
+            "tvStation": "CBS", 
+            "winner": ""
+        }, 
+        {
+            "awayTeam": "MIA", 
+            "gameDate": "2018-12-30", 
+            "gameId": "242", 
+            "gameTimeET": "1:00 PM", 
+            "gameWeek": "17", 
+            "homeTeam": "BUF", 
+            "tvStation": "CBS", 
+            "winner": ""
+        }, 
+        {
+            "awayTeam": "DET", 
+            "gameDate": "2018-12-30", 
+            "gameId": "243", 
+            "gameTimeET": "1:00 PM", 
+            "gameWeek": "17", 
+            "homeTeam": "GB", 
+            "tvStation": "FOX", 
+            "winner": ""
+        }, 
+        {
+            "awayTeam": "JAC", 
+            "gameDate": "2018-12-30", 
+            "gameId": "244", 
+            "gameTimeET": "1:00 PM", 
+            "gameWeek": "17", 
+            "homeTeam": "HOU", 
+            "tvStation": "CBS", 
+            "winner": ""
+        }, 
+        {
+            "awayTeam": "OAK", 
+            "gameDate": "2018-12-30", 
+            "gameId": "245", 
+            "gameTimeET": "1:00 PM", 
+            "gameWeek": "17", 
+            "homeTeam": "KC", 
+            "tvStation": "CBS", 
+            "winner": ""
+        }, 
+        {
+            "awayTeam": "CHI", 
+            "gameDate": "2018-12-30", 
+            "gameId": "246", 
+            "gameTimeET": "1:00 PM", 
+            "gameWeek": "17", 
+            "homeTeam": "MIN", 
+            "tvStation": "FOX", 
+            "winner": ""
+        }, 
+        {
+            "awayTeam": "NYJ", 
+            "gameDate": "2018-12-30", 
+            "gameId": "247", 
+            "gameTimeET": "1:00 PM", 
+            "gameWeek": "17", 
+            "homeTeam": "NE", 
+            "tvStation": "CBS", 
+            "winner": ""
+        }, 
+        {
+            "awayTeam": "CAR", 
+            "gameDate": "2018-12-30", 
+            "gameId": "248", 
+            "gameTimeET": "1:00 PM", 
+            "gameWeek": "17", 
+            "homeTeam": "NO", 
+            "tvStation": "FOX", 
+            "winner": ""
+        }, 
+        {
+            "awayTeam": "DAL", 
+            "gameDate": "2018-12-30", 
+            "gameId": "249", 
+            "gameTimeET": "1:00 PM", 
+            "gameWeek": "17", 
+            "homeTeam": "NYG", 
+            "tvStation": "FOX", 
+            "winner": ""
+        }, 
+        {
+            "awayTeam": "CIN", 
+            "gameDate": "2018-12-30", 
+            "gameId": "250", 
+            "gameTimeET": "1:00 PM", 
+            "gameWeek": "17", 
+            "homeTeam": "PIT", 
+            "tvStation": "CBS", 
+            "winner": ""
+        }, 
+        {
+            "awayTeam": "ATL", 
+            "gameDate": "2018-12-30", 
+            "gameId": "251", 
+            "gameTimeET": "1:00 PM", 
+            "gameWeek": "17", 
+            "homeTeam": "TB", 
+            "tvStation": "FOX", 
+            "winner": ""
+        }, 
+        {
+            "awayTeam": "IND", 
+            "gameDate": "2018-12-30", 
+            "gameId": "252", 
+            "gameTimeET": "1:00 PM", 
+            "gameWeek": "17", 
+            "homeTeam": "TEN", 
+            "tvStation": "CBS", 
+            "winner": ""
+        }, 
+        {
+            "awayTeam": "PHI", 
+            "gameDate": "2018-12-30", 
+            "gameId": "253", 
+            "gameTimeET": "1:00 PM", 
+            "gameWeek": "17", 
+            "homeTeam": "WAS", 
+            "tvStation": "FOX", 
+            "winner": ""
+        }, 
+        {
+            "awayTeam": "LAC", 
+            "gameDate": "2018-12-30", 
+            "gameId": "254", 
+            "gameTimeET": "4:25 PM", 
+            "gameWeek": "17", 
+            "homeTeam": "DEN", 
+            "tvStation": "CBS", 
+            "winner": ""
+        }, 
+        {
+            "awayTeam": "SF", 
+            "gameDate": "2018-12-30", 
+            "gameId": "255", 
+            "gameTimeET": "4:25 PM", 
+            "gameWeek": "17", 
+            "homeTeam": "LAR", 
+            "tvStation": "FOX", 
+            "winner": ""
+        }, 
+        {
+            "awayTeam": "ARI", 
+            "gameDate": "2018-12-30", 
+            "gameId": "256", 
+            "gameTimeET": "4:25 PM", 
+            "gameWeek": "17", 
+            "homeTeam": "SEA", 
+            "tvStation": "FOX", 
+            "winner": ""
+        }
+    ], 
+    "currentWeek": "1"
+}

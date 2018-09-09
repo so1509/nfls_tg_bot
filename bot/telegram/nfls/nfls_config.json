@@ -1,0 +1,17 @@
+{
+	"properties":
+	{
+		"apiKey":"4n68d93rt6e8",
+		"nflTeamsFile":"updates/nfl_teams.json",
+		"nflScheduleFile":"updates/nfl_schedule.json"
+	},
+	"api":
+	{
+		"nflTeams":"https://www.fantasyfootballnerd.com/service/nfl-teams/json/",
+		"nflSchedule":"https://www.fantasyfootballnerd.com/service/schedule/json/",
+		"nflScores":"https://api.fantasy.nfl.com/v1/players/stats?statType=seasonStats&season=2018&format=json"
+	}
+}
+
+
+

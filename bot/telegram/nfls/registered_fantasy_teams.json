@@ -1,0 +1,16 @@
+{
+	"teams":
+		{
+			"name":"MunichMonarchs",
+			"lineup":
+			{
+				"position":"QB",
+				"name":"Tom Brady",
+				"team":"NE"
+			},
+			{	"position":"WR",
+				"name":"Julio Jones",
+				"team":"ATL"
+			}
+		}
+}
